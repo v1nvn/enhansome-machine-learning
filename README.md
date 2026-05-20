@@ -1,4 +1,4 @@
-# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 467,880 | 🐛 76 | 📅 2026-05-05 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/) with stars
+# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 468,218 | 🐛 76 | 📅 2026-05-05 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/) with stars
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
@@ -13,15 +13,15 @@ Also, a listed repository should be deprecated if:
 
 Further resources:
 
-* For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) ⭐ 72,514 | 🐛 14 | 🌐 Python | 📅 2026-05-12.
+* For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) ⭐ 72,523 | 🐛 14 | 🌐 Python | 📅 2026-05-12.
 
-* For a list of professional machine learning events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/events.md) ⭐ 72,514 | 🐛 14 | 🌐 Python | 📅 2026-05-12.
+* For a list of professional machine learning events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/events.md) ⭐ 72,523 | 🐛 14 | 🌐 Python | 📅 2026-05-12.
 
-* For a list of (mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md) ⭐ 72,514 | 🐛 14 | 🌐 Python | 📅 2026-05-12.
+* For a list of (mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md) ⭐ 72,523 | 🐛 14 | 🌐 Python | 📅 2026-05-12.
 
-* For a list of blogs and newsletters on data science and machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md) ⭐ 72,514 | 🐛 14 | 🌐 Python | 📅 2026-05-12.
+* For a list of blogs and newsletters on data science and machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md) ⭐ 72,523 | 🐛 14 | 🌐 Python | 📅 2026-05-12.
 
-* For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md) ⭐ 72,514 | 🐛 14 | 🌐 Python | 📅 2026-05-12.
+* For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md) ⭐ 72,523 | 🐛 14 | 🌐 Python | 📅 2026-05-12.
 
 ## Star History
 
@@ -219,8 +219,8 @@ Further resources:
 
 #### Computer Vision
 
-* [YOLOv8](https://github.com/ultralytics/ultralytics) ⭐ 57,287 | 🐛 319 | 🌐 Python | 📅 2026-05-19 - Ultralytics' YOLOv8 implementation with C++ support for real-time object detection and tracking, optimized for edge devices.
-* [CCV](https://github.com/liuliu/ccv) ⭐ 7,217 | 🐛 78 | 🌐 C++ | 📅 2026-05-19 - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
+* [YOLOv8](https://github.com/ultralytics/ultralytics) ⭐ 57,343 | 🐛 309 | 🌐 Python | 📅 2026-05-20 - Ultralytics' YOLOv8 implementation with C++ support for real-time object detection and tracking, optimized for edge devices.
+* [CCV](https://github.com/liuliu/ccv) ⭐ 7,216 | 🐛 78 | 🌐 C++ | 📅 2026-05-20 - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 * [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has a Matlab toolbox.
 * [SpecX](https://specx.pro) - Specialized AI vision for extracting engineering specs from PDF/JPG to Excel.
 
@@ -232,7 +232,7 @@ Further resources:
 
 #### Computer Vision
 
-* [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,091 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - A real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+* [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,093 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - A real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 * [VIGRA](https://github.com/ukoethe/vigra) ⭐ 439 | 🐛 99 | 🌐 C++ | 📅 2026-04-25 - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 * [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
 * [EBLearn](http://eblearn.sourceforge.net/) - Eblearn is an object-oriented C++ library that implements various machine learning models **\[Deprecated]**
@@ -243,21 +243,21 @@ Further resources:
 #### General-Purpose Machine Learning
 
 * [Caffe](https://github.com/BVLC/caffe) ⭐ 34,599 | 🐛 1,180 | 🌐 C++ | 📅 2024-07-31 - A deep learning framework developed with cleanliness, readability, and speed in mind. \[DEEP LEARNING]
-* [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,394 | 🐛 460 | 🌐 C++ | 📅 2026-05-14 - A parallelized optimized general purpose gradient boosting library.
+* [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,399 | 🐛 462 | 🌐 C++ | 📅 2026-05-19 - A parallelized optimized general purpose gradient boosting library.
 * [MXNet](https://github.com/apache/incubator-mxnet) ⚠️ Archived - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
-* [Opik](https://www.comet.com/site/products/opik/) - Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. ([Source Code](https://github.com/comet-ml/opik/) ⭐ 19,338 | 🐛 141 | 🌐 Python | 📅 2026-05-19)
-* [LightGBM](https://github.com/Microsoft/LightGBM) ⭐ 18,364 | 🐛 510 | 🌐 C++ | 📅 2026-05-19 - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+* [Opik](https://www.comet.com/site/products/opik/) - Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. ([Source Code](https://github.com/comet-ml/opik/) ⭐ 19,345 | 🐛 142 | 🌐 Python | 📅 2026-05-20)
+* [LightGBM](https://github.com/Microsoft/LightGBM) ⭐ 18,372 | 🐛 510 | 🌐 C++ | 📅 2026-05-20 - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 * [CNTK](https://github.com/Microsoft/CNTK) ⚠️ Archived - The Computational Network Toolkit (CNTK) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
-* [PyCaret](https://github.com/pycaret/pycaret) ⭐ 9,793 | 🐛 14 | 🌐 Python | 📅 2026-05-16 - An open-source, low-code machine learning library in Python that automates machine learning workflows.
-* [CatBoost](https://github.com/catboost/catboost) ⭐ 8,951 | 🐛 698 | 🌐 C++ | 📅 2026-05-19 - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (even multi-GPU) computation.
-* [Vowpal Wabbit (VW)](https://github.com/VowpalWabbit/vowpal_wabbit) ⭐ 8,680 | 🐛 0 | 🌐 C++ | 📅 2026-05-08 - A fast out-of-core learning system.
+* [PyCaret](https://github.com/pycaret/pycaret) ⭐ 9,795 | 🐛 15 | 🌐 Python | 📅 2026-05-19 - An open-source, low-code machine learning library in Python that automates machine learning workflows.
+* [CatBoost](https://github.com/catboost/catboost) ⭐ 8,952 | 🐛 699 | 🌐 C++ | 📅 2026-05-19 - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (even multi-GPU) computation.
+* [Vowpal Wabbit (VW)](https://github.com/VowpalWabbit/vowpal_wabbit) ⭐ 8,681 | 🐛 0 | 🌐 C++ | 📅 2026-05-08 - A fast out-of-core learning system.
 * [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) ⭐ 8,345 | 🐛 110 | 🌐 Python | 📅 2024-07-22 -Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware. \[DEEP LEARNING]
 * [Featuretools](https://github.com/featuretools/featuretools) ⭐ 7,646 | 🐛 162 | 🌐 Python | 📅 2026-02-03 - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
-* [Feast](https://github.com/gojek/feast) ⭐ 7,042 | 🐛 353 | 🌐 Python | 📅 2026-05-18 - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+* [Feast](https://github.com/gojek/feast) ⭐ 7,045 | 🐛 352 | 🌐 Python | 📅 2026-05-19 - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 * [DSSTNE](https://github.com/amznlabs/amazon-dsstne) ⚠️ Archived - A software library created by Amazon for training and deploying deep neural networks using GPUs which emphasizes speed and scale over experimental flexibility.
 * [Warp-CTC](https://github.com/baidu-research/warp-ctc) ⭐ 4,069 | 🐛 90 | 🌐 Cuda | 📅 2024-03-04 - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
-* [oneDNN](https://github.com/oneapi-src/oneDNN) ⭐ 3,990 | 🐛 151 | 🌐 C++ | 📅 2026-05-19 - An open-source cross-platform performance library for deep learning applications.
-* [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,706 | 🐛 124 | 📅 2026-04-26 - A platform for reproducible and scalable machine learning and deep learning.
+* [oneDNN](https://github.com/oneapi-src/oneDNN) ⭐ 3,990 | 🐛 153 | 🌐 C++ | 📅 2026-05-20 - An open-source cross-platform performance library for deep learning applications.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,707 | 🐛 124 | 📅 2026-04-26 - A platform for reproducible and scalable machine learning and deep learning.
 * [DyNet](https://github.com/clab/dynet) ⭐ 3,436 | 🐛 233 | 🌐 C++ | 📅 2023-12-01 - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
 * [xLearn](https://github.com/aksnzhy/xlearn) ⭐ 3,097 | 🐛 194 | 🌐 C++ | 📅 2023-08-28 - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertising and recommender systems.
 * [Shogun](https://github.com/shogun-toolbox/shogun) ⭐ 3,065 | 🐛 423 | 🌐 C++ | 📅 2023-12-19 - The Shogun Machine Learning Toolbox.
@@ -266,9 +266,9 @@ Further resources:
 * [nndeploy](https://github.com/nndeploy/nndeploy) ⭐ 1,820 | 🐛 22 | 🌐 C++ | 📅 2026-04-25 - An Easy-to-Use and High-Performance AI deployment framework.
 * [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) ⭐ 1,624 | 🐛 87 | 🌐 C++ | 📅 2024-04-01 - A fast SVM library on GPUs and CPUs.
 * [libfm](https://github.com/srendle/libfm) ⭐ 1,488 | 🐛 21 | 🌐 C++ | 📅 2020-03-28 - A generic approach that allows to mimic most factorization models by feature engineering.
-* [Hopsworks](https://github.com/logicalclocks/hopsworks) ⭐ 1,296 | 🐛 16 | 🌐 Java | 📅 2025-02-10 - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
+* [Hopsworks](https://github.com/logicalclocks/hopsworks) ⭐ 1,297 | 🐛 16 | 🌐 Java | 📅 2025-02-10 - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 * [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) ⭐ 713 | 🐛 39 | 🌐 C++ | 📅 2025-03-19 - A fast library for GBDTs and Random Forests on GPUs.
-* [Intel® oneAPI Data Analytics Library](https://github.com/oneapi-src/oneDAL) ⭐ 646 | 🐛 73 | 🌐 C++ | 📅 2026-05-19 - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
+* [Intel® oneAPI Data Analytics Library](https://github.com/oneapi-src/oneDAL) ⭐ 647 | 🐛 73 | 🌐 C++ | 📅 2026-05-20 - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
 * [Fido](https://github.com/FidoProject/Fido) ⭐ 462 | 🐛 15 | 🌐 C++ | 📅 2020-01-05 - A highly-modular C++ machine learning library for embedded electronics and robotics.
 * [XAD](https://github.com/auto-differentiation/XAD) ⭐ 420 | 🐛 6 | 🌐 C++ | 📅 2026-04-13 - Comprehensive backpropagation tool for C++.
 * [N2D2](https://github.com/CEA-LIST/N2D2) ⭐ 158 | 🐛 6 | 🌐 C | 📅 2024-07-03 - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
@@ -300,8 +300,8 @@ Further resources:
 
 #### Natural Language Processing
 
-* [SentencePiece](https://github.com/google/sentencepiece) ⭐ 11,837 | 🐛 15 | 🌐 C++ | 📅 2026-05-19 - A C++ library for unsupervised text tokenization and detokenization, widely used in modern NLP models.
-* [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) ⭐ 2,962 | 🐛 19 | 🌐 C++ | 📅 2025-09-28 - C, C++, and Python tools for named entity recognition and relation extraction
+* [SentencePiece](https://github.com/google/sentencepiece) ⭐ 11,839 | 🐛 15 | 🌐 C++ | 📅 2026-05-20 - A C++ library for unsupervised text tokenization and detokenization, widely used in modern NLP models.
+* [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) ⭐ 2,961 | 🐛 19 | 🌐 C++ | 📅 2025-09-28 - C, C++, and Python tools for named entity recognition and relation extraction
 * [MeTA](https://github.com/meta-toolkit/meta) ⭐ 713 | 🐛 56 | 🌐 C++ | 📅 2023-04-17 - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 * [BLLIP Parser](https://github.com/BLLIP/bllip-parser) ⭐ 228 | 🐛 25 | 🌐 GAP | 📅 2021-11-07 - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser).
 * [colibri-core](https://github.com/proycon/colibri-core) ⭐ 130 | 🐛 9 | 🌐 C++ | 📅 2026-02-05 - C++ library, command line tools, and Python binding for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
@@ -315,8 +315,8 @@ Further resources:
 
 #### Speech Recognition
 
-* [Kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,394 | 🐛 257 | 🌐 Shell | 📅 2025-09-22 - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
-* [Vosk](https://github.com/alphacep/vosk-api) ⭐ 14,736 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2026-02-22 - An offline speech recognition toolkit with C++ support, designed for low-resource devices and multiple languages.
+* [Kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,392 | 🐛 257 | 🌐 Shell | 📅 2025-09-22 - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
+* [Vosk](https://github.com/alphacep/vosk-api) ⭐ 14,740 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2026-02-22 - An offline speech recognition toolkit with C++ support, designed for low-resource devices and multiple languages.
 
 <a name="cpp-sequence-analysis"></a>
 
@@ -393,7 +393,7 @@ Further resources:
 
 #### Data Analysis
 
-* [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) ⭐ 747 | 🐛 33 | 🌐 Clojure | 📅 2026-05-06 - Clojure dataframe library and pipeline for data processing and machine learning
+* [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) ⭐ 747 | 🐛 34 | 🌐 Clojure | 📅 2026-05-06 - Clojure dataframe library and pipeline for data processing and machine learning
 * [PigPen](https://github.com/Netflix/PigPen) ⭐ 565 | 🐛 19 | 🌐 Clojure | 📅 2023-04-10 - Map-Reduce for Clojure.
 * [Tablecloth](https://github.com/scicloj/tablecloth) ⭐ 362 | 🐛 48 | 🌐 Clojure | 📅 2026-05-07 - A dataframe grammar wrapping tech.ml.dataset, inspired by several R libraries
 * [Geni](https://github.com/zero-one-group/geni) ⭐ 294 | 🐛 18 | 🌐 Clojure | 📅 2023-11-28 - a Clojure dataframe library that runs on Apache Spark
@@ -494,7 +494,7 @@ Further resources:
 
 #### General-Purpose Machine Learning
 
-* [neural-fortran](https://github.com/modern-fortran/neural-fortran) ⭐ 468 | 🐛 42 | 🌐 Fortran | 📅 2026-03-04 - A parallel neural net microframework.
+* [neural-fortran](https://github.com/modern-fortran/neural-fortran) ⭐ 469 | 🐛 42 | 🌐 Fortran | 📅 2026-03-04 - A parallel neural net microframework.
   Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 <a name="fortran-data-analysis--data-visualization"></a>
@@ -551,7 +551,7 @@ Further resources:
 
 #### Spatial analysis and geometry
 
-* [gogeo](https://github.com/golang/geo) ⭐ 1,837 | 🐛 31 | 🌐 Go | 📅 2026-05-12 - Spherical geometry in Go.
+* [gogeo](https://github.com/golang/geo) ⭐ 1,838 | 🐛 31 | 🌐 Go | 📅 2026-05-12 - Spherical geometry in Go.
 * [go-geom](https://github.com/twpayne/go-geom) ⭐ 970 | 🐛 9 | 🌐 Go | 📅 2026-05-14 - Go library to handle geometries.
 
 <a name="go-data-analysis--data-visualization"></a>
@@ -575,13 +575,13 @@ Further resources:
 
 #### Computer vision
 
-* [GoCV](https://github.com/hybridgroup/gocv) ⭐ 7,441 | 🐛 349 | 🌐 Go | 📅 2026-04-24 - Package for computer vision using OpenCV 4 and beyond.
+* [GoCV](https://github.com/hybridgroup/gocv) ⭐ 7,441 | 🐛 348 | 🌐 Go | 📅 2026-04-24 - Package for computer vision using OpenCV 4 and beyond.
 
 <a name="go-reinforcement-learning"></a>
 
 #### Reinforcement learning
 
-* [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) ⭐ 13,286 | 🐛 82 | 🌐 Python | 📅 2026-05-11 - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
+* [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) ⭐ 13,290 | 🐛 82 | 🌐 Python | 📅 2026-05-11 - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 * [gold](https://github.com/aunum/gold) ⭐ 351 | 🐛 7 | 🌐 Go | 📅 2020-10-22 - A reinforcement learning library.
 
 <a name="haskell"></a>
@@ -633,11 +633,11 @@ Further resources:
 
 #### General-Purpose Machine Learning
 
-* [H2O](https://github.com/h2oai/h2o-3) ⭐ 7,481 | 🐛 2,857 | 🌐 Jupyter Notebook | 📅 2026-05-18 - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
-* [aerosolve](https://github.com/airbnb/aerosolve) ⭐ 4,805 | 🐛 10 | 🌐 Scala | 📅 2025-11-06 - A machine learning library by Airbnb designed from the ground up to be human friendly.
-* [Mahout](https://github.com/apache/mahout) ⭐ 2,290 | 🐛 77 | 🌐 Rust | 📅 2026-05-18 - Distributed machine learning.
+* [H2O](https://github.com/h2oai/h2o-3) ⭐ 7,480 | 🐛 2,859 | 🌐 Jupyter Notebook | 📅 2026-05-20 - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
+* [aerosolve](https://github.com/airbnb/aerosolve) ⭐ 4,806 | 🐛 10 | 🌐 Scala | 📅 2025-11-06 - A machine learning library by Airbnb designed from the ground up to be human friendly.
+* [Mahout](https://github.com/apache/mahout) ⭐ 2,290 | 🐛 77 | 🌐 Rust | 📅 2026-05-20 - Distributed machine learning.
 * [ORYX](https://github.com/oryxproject/oryx) ⚠️ Archived - Lambda Architecture Framework using Apache Spark and Apache Kafka with a specialization for real-time large-scale machine learning.
-* [SystemML](https://github.com/apache/systemml) ⭐ 1,087 | 🐛 67 | 🌐 Java | 📅 2026-05-13 - flexible, scalable machine learning (ML) language.
+* [SystemML](https://github.com/apache/systemml) ⭐ 1,087 | 🐛 69 | 🌐 Java | 📅 2026-05-19 - flexible, scalable machine learning (ML) language.
 * [Datumbox](https://github.com/datumbox/datumbox-framework) ⭐ 1,084 | 🐛 2 | 🌐 Java | 📅 2023-11-30 - Machine Learning framework for rapid development of Machine Learning and Statistical applications.
 * [Encog](https://github.com/encog/encog-java-core) ⭐ 753 | 🐛 69 | 🌐 Java | 📅 2023-03-30 - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) ⭐ 325 | 🐛 32 | 🌐 Scala | 📅 2026-04-13 - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
@@ -672,8 +672,8 @@ Further resources:
 
 #### Data Analysis / Data Visualization
 
-* [Spark](https://github.com/apache/spark) ⭐ 43,301 | 🐛 405 | 🌐 Scala | 📅 2026-05-19 - Spark is a fast and general engine for large-scale data processing.
-* [Hadoop](https://github.com/apache/hadoop) ⭐ 15,548 | 🐛 131 | 🌐 Java | 📅 2026-05-15 - Hadoop/HDFS.
+* [Spark](https://github.com/apache/spark) ⭐ 43,310 | 🐛 417 | 🌐 Scala | 📅 2026-05-20 - Spark is a fast and general engine for large-scale data processing.
+* [Hadoop](https://github.com/apache/hadoop) ⭐ 15,549 | 🐛 132 | 🌐 Java | 📅 2026-05-15 - Hadoop/HDFS.
 * [Onyx](https://github.com/onyx-platform/onyx) ⚠️ Archived - Distributed, masterless, high performance, fault tolerant data processing. Written entirely in Clojure.
 * [Impala](https://github.com/cloudera/impala) ⭐ 34 | 🐛 28 | 🌐 C++ | 📅 2022-12-27 - Real-time Query for Hadoop.
 * [Flink](https://flink.apache.org/) - Open source platform for distributed stream and batch data processing.
@@ -699,8 +699,8 @@ Further resources:
 
 * [NLP Compromise](https://github.com/spencermountain/compromise) ⭐ 12,094 | 🐛 120 | 🌐 JavaScript | 📅 2026-02-25 - Natural Language processing in the browser.
 * [natural](https://github.com/NaturalNode/natural) ⭐ 10,875 | 🐛 82 | 🌐 JavaScript | 📅 2026-02-22 - General natural language facilities for node.
-* [nlp.js](https://github.com/axa-group/nlp.js) ⭐ 6,569 | 🐛 116 | 🌐 JavaScript | 📅 2025-01-09 - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
-* [Knwl.js](https://github.com/loadfive/Knwl.js) ⭐ 5,264 | 🐛 13 | 🌐 JavaScript | 📅 2023-09-28 - A Natural Language Processor in JS.
+* [nlp.js](https://github.com/axa-group/nlp.js) ⭐ 6,570 | 🐛 116 | 🌐 JavaScript | 📅 2025-01-09 - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
+* [Knwl.js](https://github.com/loadfive/Knwl.js) ⭐ 5,263 | 🐛 13 | 🌐 JavaScript | 📅 2023-09-28 - A Natural Language Processor in JS.
 * [Twitter-text](https://github.com/twitter/twitter-text) ⭐ 3,134 | 🐛 93 | 🌐 HTML | 📅 2024-04-26 - A JavaScript implementation of Twitter's text processing library.
 * [Retext](https://github.com/retextjs/retext) ⭐ 2,430 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Extensible system for analyzing and manipulating natural language.
 
@@ -734,12 +734,12 @@ Further resources:
 
 #### General-Purpose Machine Learning
 
-* [Netron](https://github.com/lutzroeder/netron) ⭐ 32,910 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-19 - Visualizer for machine learning models.
+* [Netron](https://github.com/lutzroeder/netron) ⭐ 32,918 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-20 - Visualizer for machine learning models.
 * [MXNet](https://github.com/apache/incubator-mxnet) ⚠️ Archived - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
 * [Brain.js](https://github.com/BrainJS/brain.js) ⭐ 14,853 | 🐛 91 | 🌐 TypeScript | 📅 2024-09-26 - Neural networks in JavaScript - continued community fork of [Brain](https://github.com/harthur/brain) ⚠️ Archived.
 * [Brain](https://github.com/harthur/brain) ⚠️ Archived - Neural networks in JavaScript **\[Deprecated]**
-* [Synaptic](https://github.com/cazala/synaptic) ⭐ 6,921 | 🐛 161 | 🌐 JavaScript | 📅 2020-09-03 - Architecture-free neural network library for Node.js and the browser.
-* [ml5](https://github.com/ml5js/ml5-library) ⭐ 6,579 | 🐛 287 | 🌐 JavaScript | 📅 2024-10-11 - Friendly machine learning for the web!
+* [Synaptic](https://github.com/cazala/synaptic) ⭐ 6,920 | 🐛 161 | 🌐 JavaScript | 📅 2020-09-03 - Architecture-free neural network library for Node.js and the browser.
+* [ml5](https://github.com/ml5js/ml5-library) ⭐ 6,580 | 🐛 287 | 🌐 JavaScript | 📅 2024-10-11 - Friendly machine learning for the web!
 * [Keras.js](https://github.com/transcranial/keras-js) ⭐ 4,962 | 🐛 81 | 🌐 JavaScript | 📅 2022-06-15 - Run Keras models in the browser, with GPU support provided by WebGL 2.
 * [ml.js](https://github.com/mljs/ml) ⭐ 2,710 | 🐛 27 | 🌐 JavaScript | 📅 2024-10-21 - Machine learning and numerical analysis tools for Node.js and the Browser!
 * [WebDNN](https://github.com/mil-tokyo/webdnn) ⭐ 1,997 | 🐛 81 | 🌐 TypeScript | 📅 2025-06-07 - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
@@ -777,9 +777,9 @@ Further resources:
 
 #### Misc
 
-* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 5,832 | 🐛 1,243 | 🌐 JavaScript | 📅 2026-05-19 - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
-* [simple-statistics](https://github.com/simple-statistics/simple-statistics) ⭐ 3,505 | 🐛 23 | 🌐 JavaScript | 📅 2026-05-18 - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
-* [Pipcook](https://github.com/alibaba/pipcook) ⭐ 2,590 | 🐛 110 | 🌐 TypeScript | 📅 2026-05-19 - A JavaScript application framework for machine learning and its engineering.
+* [stdlib](https://github.com/stdlib-js/stdlib) ⭐ 5,833 | 🐛 1,244 | 🌐 JavaScript | 📅 2026-05-20 - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+* [simple-statistics](https://github.com/simple-statistics/simple-statistics) ⭐ 3,506 | 🐛 23 | 🌐 JavaScript | 📅 2026-05-18 - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
+* [Pipcook](https://github.com/alibaba/pipcook) ⭐ 2,590 | 🐛 110 | 🌐 TypeScript | 📅 2026-05-20 - A JavaScript application framework for machine learning and its engineering.
 * [sylvester](https://github.com/jcoglan/sylvester) ⭐ 1,157 | 🐛 29 | 🌐 JavaScript | 📅 2019-05-13 - Vector and Matrix math for JavaScript. **\[Deprecated]**
 * [regression-js](https://github.com/Tom-Alexander/regression-js) ⭐ 951 | 🐛 45 | 🌐 JavaScript | 📅 2022-12-06 - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
 * [GreatCircle](https://github.com/mwgg/GreatCircle) ⭐ 78 | 🐛 0 | 🌐 PHP | 📅 2022-03-20 - Library for calculating great circle distance.
@@ -790,8 +790,8 @@ Further resources:
 
 #### Demos and Scripts
 
-* [The Bot](https://github.com/sta-ger/TheBot) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-04 - Example of how the neural network learns to predict the angle between two points created with [Synaptic](https://github.com/cazala/synaptic) ⭐ 6,921 | 🐛 161 | 🌐 JavaScript | 📅 2020-09-03.
-* [Half Beer](https://github.com/sta-ger/HalfBeer) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2018-06-26 - Beer glass classifier created with [Synaptic](https://github.com/cazala/synaptic) ⭐ 6,921 | 🐛 161 | 🌐 JavaScript | 📅 2020-09-03.
+* [The Bot](https://github.com/sta-ger/TheBot) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-04 - Example of how the neural network learns to predict the angle between two points created with [Synaptic](https://github.com/cazala/synaptic) ⭐ 6,920 | 🐛 161 | 🌐 JavaScript | 📅 2020-09-03.
+* [Half Beer](https://github.com/sta-ger/HalfBeer) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2018-06-26 - Beer glass classifier created with [Synaptic](https://github.com/cazala/synaptic) ⭐ 6,920 | 🐛 161 | 🌐 JavaScript | 📅 2020-09-03.
 * [NSFWJS](http://nsfwjs.com) - Indecent content checker with TensorFlow\.js
 * [Rock Paper Scissors](https://rps-tfjs.netlify.com/) - Rock Paper Scissors trained in the browser with TensorFlow\.js
 * [Heroes Wear Masks](https://heroeswearmasks.fun/) - A fun TensorFlow\.js-based oracle that tells, whether one wears a face mask or not. It can even tell when one wears the mask incorrectly.
@@ -879,7 +879,7 @@ Further resources:
 * [Images](https://github.com/JuliaImages/Images.jl) ⭐ 552 | 🐛 44 | 🌐 Julia | 📅 2026-05-01 - An image library for Julia.
 * [DSP](https://github.com/JuliaDSP/DSP.jl) ⭐ 417 | 🐛 87 | 🌐 Julia | 📅 2026-05-08 - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 * [SignalProcessing](https://github.com/JuliaDSP/DSP.jl) ⭐ 417 | 🐛 87 | 🌐 Julia | 📅 2026-05-08 - Signal Processing tools for Julia.
-* [DataDeps](https://github.com/oxinabox/DataDeps.jl) ⭐ 159 | 🐛 37 | 🌐 Julia | 📅 2026-05-13 - Reproducible data setup for reproducible science.
+* [DataDeps](https://github.com/oxinabox/DataDeps.jl) ⭐ 160 | 🐛 38 | 🌐 Julia | 📅 2026-05-13 - Reproducible data setup for reproducible science.
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations) ⭐ 70 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2016-03-07 - Presentations for JuliaCon.
 
 <a name="kotlin"></a>
@@ -890,7 +890,7 @@ Further resources:
 
 #### Deep Learning
 
-* [KotlinDL](https://github.com/JetBrains/KotlinDL) ⭐ 1,571 | 🐛 81 | 🌐 Kotlin | 📅 2024-05-31 - Deep learning framework written in Kotlin.
+* [KotlinDL](https://github.com/JetBrains/KotlinDL) ⭐ 1,573 | 🐛 81 | 🌐 Kotlin | 📅 2024-05-31 - Deep learning framework written in Kotlin.
 
 <a name="lua"></a>
 
@@ -901,8 +901,8 @@ Further resources:
 #### General-Purpose Machine Learning
 
 * [Torch7](http://torch.ch/)
-  * [wav2letter](https://github.com/facebookresearch/wav2letter) ⭐ 6,445 | 🐛 107 | 🌐 C++ | 📅 2026-01-12 - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
-  * [nn](https://github.com/torch/nn) ⭐ 1,357 | 🐛 173 | 🌐 Lua | 📅 2021-01-12 - Neural Network package for Torch.
+  * [wav2letter](https://github.com/facebookresearch/wav2letter) ⭐ 6,444 | 🐛 107 | 🌐 C++ | 📅 2026-01-12 - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
+  * [nn](https://github.com/torch/nn) ⭐ 1,358 | 🐛 173 | 🌐 Lua | 📅 2021-01-12 - Neural Network package for Torch.
   * [torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived - framework for torch which provides a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming.
   * [rnn](https://github.com/Element-Research/rnn) ⭐ 942 | 🐛 78 | 🌐 Lua | 📅 2017-12-21 - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
   * [OverFeat](https://github.com/sermanet/OverFeat) ⭐ 601 | 🐛 34 | 🌐 C | 📅 2014-08-12 - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
@@ -1039,8 +1039,8 @@ Further resources:
 
 #### General-Purpose Machine Learning
 
-* [ML.NET](https://github.com/dotnet/machinelearning) ⭐ 9,327 | 🐛 999 | 🌐 C# | 📅 2026-05-18 - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
-* [GeneticSharp](https://github.com/giacomelli/GeneticSharp) ⭐ 1,362 | 🐛 12 | 🌐 C# | 📅 2025-11-13 - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
+* [ML.NET](https://github.com/dotnet/machinelearning) ⭐ 9,326 | 🐛 999 | 🌐 C# | 📅 2026-05-18 - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
+* [GeneticSharp](https://github.com/giacomelli/GeneticSharp) ⭐ 1,363 | 🐛 12 | 🌐 C# | 📅 2025-11-13 - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
 * [MxNet.Sharp](https://github.com/tech-quantum/MxNet.Sharp) ⭐ 151 | 🐛 3 | 🌐 C# | 📅 2023-04-12 - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
 * [Vulpes](https://github.com/fsprojects/Vulpes) ⚠️ Archived - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
 * [Synapses](https://github.com/mrdimosthenis/Synapses) ⭐ 73 | 🐛 0 | 📅 2021-09-23 - Neural network library in F#.
@@ -1097,7 +1097,7 @@ Further resources:
 
 ### OpenSource-Computer-Vision
 
-* [OpenCV](https://github.com/opencv/opencv) ⭐ 87,537 | 🐛 2,743 | 🌐 C++ | 📅 2026-05-19 - A OpenSource Computer Vision Library
+* [OpenCV](https://github.com/opencv/opencv) ⭐ 87,562 | 🐛 2,734 | 🌐 C++ | 📅 2026-05-19 - A OpenSource Computer Vision Library
 
 <a name="perl"></a>
 
@@ -1153,7 +1153,7 @@ Further resources:
 
 ### Natural Language Processing
 
-* [jieba-php](https://github.com/fukuball/jieba-php) ⭐ 1,376 | 🐛 4 | 🌐 PHP | 📅 2025-12-16 - Chinese Words Segmentation Utilities.
+* [jieba-php](https://github.com/fukuball/jieba-php) ⭐ 1,377 | 🐛 4 | 🌐 PHP | 📅 2025-12-16 - Chinese Words Segmentation Utilities.
 
 <a name="php-general-purpose-machine-learning"></a>
 
@@ -1172,27 +1172,27 @@ Further resources:
 
 #### Computer Vision
 
-* [face\_recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,408 | 🐛 835 | 🌐 Python | 📅 2024-08-21 - Face recognition library that recognizes and manipulates faces from Python or from the command line.
-* [timm](https://github.com/rwightman/pytorch-image-models) ⭐ 36,816 | 🐛 66 | 🌐 Python | 📅 2026-05-08 - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more.
-* [detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,478 | 🐛 587 | 🌐 Python | 📅 2026-05-15 - FAIR's next-generation research platform for object detection and segmentation. It is a ground-up rewrite of the previous version, Detectron, and is powered by the PyTorch deep learning framework.
-* [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,091 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - A real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+* [face\_recognition](https://github.com/ageitgey/face_recognition) ⭐ 56,407 | 🐛 835 | 🌐 Python | 📅 2024-08-21 - Face recognition library that recognizes and manipulates faces from Python or from the command line.
+* [timm](https://github.com/rwightman/pytorch-image-models) ⭐ 36,822 | 🐛 66 | 🌐 Python | 📅 2026-05-08 - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more.
+* [detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,485 | 🐛 588 | 🌐 Python | 📅 2026-05-15 - FAIR's next-generation research platform for object detection and segmentation. It is a ground-up rewrite of the previous version, Detectron, and is powered by the PyTorch deep learning framework.
+* [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,093 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - A real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 * [Detectron](https://github.com/facebookresearch/Detectron) ⚠️ Archived - FAIR's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework. **\[Deprecated]**
-* [MLX](https://github.com/ml-explore/mlx) ⭐ 26,311 | 🐛 139 | 🌐 C++ | 📅 2026-05-18- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
-* [deepface](https://github.com/serengil/deepface) ⭐ 22,792 | 🐛 9 | 🌐 Python | 📅 2026-05-13 - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
+* [MLX](https://github.com/ml-explore/mlx) ⭐ 26,325 | 🐛 140 | 🌐 C++ | 📅 2026-05-19- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
+* [deepface](https://github.com/serengil/deepface) ⭐ 22,798 | 🐛 9 | 🌐 Python | 📅 2026-05-13 - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
 * [albumentations](https://github.com/albu/albumentations) ⚠️ Archived - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
-* [segmentation\_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) ⭐ 11,559 | 🐛 78 | 🌐 Python | 📅 2026-05-18 - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
-* [Exadel CompreFace](https://github.com/exadel-inc/CompreFace) ⭐ 7,933 | 🐛 233 | 🌐 Java | 📅 2024-10-05 - face recognition system that can be easily integrated into any system without prior machine learning skills. CompreFace provides REST API for face recognition, face verification, face detection, face mask detection, landmark detection, age, and gender recognition and is easily deployed with docker.
-* [Scikit-Opt](https://github.com/guofei9987/scikit-opt) ⭐ 6,563 | 🐛 71 | 🌐 Python | 📅 2026-03-25 - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
-* [Scikit-Image](https://github.com/scikit-image/scikit-image) ⭐ 6,513 | 🐛 905 | 🌐 Python | 📅 2026-05-18 - A collection of algorithms for image processing in Python.
-* [pytessarct](https://github.com/madmaze/pytesseract) ⭐ 6,339 | 🐛 21 | 🌐 Python | 📅 2026-05-18 - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine](https://github.com/tesseract-ocr/tesseract) ⭐ 74,159 | 🐛 477 | 🌐 C++ | 📅 2026-04-27.
+* [segmentation\_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) ⭐ 11,562 | 🐛 77 | 🌐 Python | 📅 2026-05-19 - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
+* [Exadel CompreFace](https://github.com/exadel-inc/CompreFace) ⭐ 7,936 | 🐛 233 | 🌐 Java | 📅 2024-10-05 - face recognition system that can be easily integrated into any system without prior machine learning skills. CompreFace provides REST API for face recognition, face verification, face detection, face mask detection, landmark detection, age, and gender recognition and is easily deployed with docker.
+* [Scikit-Opt](https://github.com/guofei9987/scikit-opt) ⭐ 6,566 | 🐛 71 | 🌐 Python | 📅 2026-03-25 - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
+* [Scikit-Image](https://github.com/scikit-image/scikit-image) ⭐ 6,514 | 🐛 907 | 🌐 Python | 📅 2026-05-19 - A collection of algorithms for image processing in Python.
+* [pytessarct](https://github.com/madmaze/pytesseract) ⭐ 6,339 | 🐛 21 | 🌐 Python | 📅 2026-05-18 - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine](https://github.com/tesseract-ocr/tesseract) ⭐ 74,180 | 🐛 477 | 🌐 C++ | 📅 2026-04-27.
 * [segmentation\_models](https://github.com/qubvel/segmentation_models) ⭐ 4,926 | 🐛 273 | 🌐 Python | 📅 2024-08-21 - A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
 * [imutils](https://github.com/jrosebr1/imutils) ⭐ 4,595 | 🐛 163 | 🌐 Python | 📅 2024-06-24 - A library containing Convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 * [Deep High-Resolution-Net](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) ⭐ 4,474 | 🐛 209 | 🌐 Cuda | 📅 2024-08-30 - A PyTorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
-* [lightly](https://github.com/lightly-ai/lightly) ⭐ 3,740 | 🐛 86 | 🌐 Python | 📅 2026-05-18 - Lightly is a computer vision framework for self-supervised learning.
-* [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) ⭐ 2,849 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-05-27 - as known as `L0CV`, is a new generation of computer vision open source online learning media, a cross-platform interactive learning framework integrating graphics, source code and HTML. the L0CV ecosystem — Notebook, Datasets, Source Code, and from Diving-in to Advanced — as well as the L0CV Hub.
-* [retinaface](https://github.com/serengil/retinaface) ⭐ 1,976 | 🐛 1 | 🌐 Python | 📅 2026-05-13 - deep learning based cutting-edge facial detector for Python coming with facial landmarks
+* [lightly](https://github.com/lightly-ai/lightly) ⭐ 3,743 | 🐛 85 | 🌐 Python | 📅 2026-05-19 - Lightly is a computer vision framework for self-supervised learning.
+* [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) ⭐ 2,848 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-05-27 - as known as `L0CV`, is a new generation of computer vision open source online learning media, a cross-platform interactive learning framework integrating graphics, source code and HTML. the L0CV ecosystem — Notebook, Datasets, Source Code, and from Diving-in to Advanced — as well as the L0CV Hub.
+* [retinaface](https://github.com/serengil/retinaface) ⭐ 1,977 | 🐛 1 | 🌐 Python | 📅 2026-05-13 - deep learning based cutting-edge facial detector for Python coming with facial landmarks
 * [PCV](https://github.com/jesolem/PCV) ⭐ 1,960 | 🐛 26 | 🌐 Python | 📅 2020-12-28 - Open source Python module for computer vision. **\[Deprecated]**
-* [LightlyTrain](https://github.com/lightly-ai/lightly-train) ⭐ 1,460 | 🐛 45 | 🌐 Python | 📅 2026-05-18 - Pretrain computer vision models on unlabeled data for industrial applications
+* [LightlyTrain](https://github.com/lightly-ai/lightly-train) ⭐ 1,462 | 🐛 45 | 🌐 Python | 📅 2026-05-19 - Pretrain computer vision models on unlabeled data for industrial applications
 * [TF-GAN](https://github.com/tensorflow/gan) ⚠️ Archived - TF-GAN is a lightweight library for training and evaluating Generative Adversarial Networks (GANs).
 * [neural-style-pt](https://github.com/ProGamerGov/neural-style-pt) ⭐ 860 | 🐛 25 | 🌐 Python | 📅 2022-10-15 - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
 * [Lucent](https://github.com/greentfrapp/lucent) ⭐ 657 | 🐛 22 | 🌐 Python | 📅 2025-03-21 - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
@@ -1215,33 +1215,33 @@ Further resources:
 
 #### Natural Language Processing
 
-* [Transformers](https://github.com/huggingface/transformers) ⭐ 160,751 | 🐛 2,359 | 🌐 Python | 📅 2026-05-19 - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
-* [jieba](https://github.com/fxsjy/jieba#jieba-1) ⭐ 34,955 | 🐛 700 | 🌐 Python | 📅 2024-08-21 - Chinese Words Segmentation Utilities.
-* [spaCy](https://github.com/explosion/spaCy) ⭐ 33,587 | 🐛 204 | 🌐 Python | 📅 2026-03-28 - Industrial strength NLP with Python and Cython.
-* [Haystack](https://github.com/deepset-ai/haystack) ⭐ 25,285 | 🐛 107 | 🌐 MDX | 📅 2026-05-18 - A framework for building industrial-strength applications with Transformer models and LLMs.
-* [Rasa](https://github.com/RasaHQ/rasa) ⭐ 21,172 | 🐛 145 | 🌐 Python | 📅 2026-01-29 - A "machine learning framework to automate text-and voice-based conversations."
-* [CometLLM](https://github.com/comet-ml/comet-llm) ⭐ 19,338 | 🐛 141 | 🌐 Python | 📅 2026-05-19 - Track, log, visualize and evaluate your LLM prompts and prompt chains.
+* [Transformers](https://github.com/huggingface/transformers) ⭐ 160,788 | 🐛 2,356 | 🌐 Python | 📅 2026-05-20 - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
+* [jieba](https://github.com/fxsjy/jieba#jieba-1) ⭐ 34,961 | 🐛 700 | 🌐 Python | 📅 2024-08-21 - Chinese Words Segmentation Utilities.
+* [spaCy](https://github.com/explosion/spaCy) ⭐ 33,591 | 🐛 205 | 🌐 Python | 📅 2026-05-19 - Industrial strength NLP with Python and Cython.
+* [Haystack](https://github.com/deepset-ai/haystack) ⭐ 25,301 | 🐛 107 | 🌐 MDX | 📅 2026-05-20 - A framework for building industrial-strength applications with Transformer models and LLMs.
+* [Rasa](https://github.com/RasaHQ/rasa) ⭐ 21,174 | 🐛 145 | 🌐 Python | 📅 2026-01-29 - A "machine learning framework to automate text-and voice-based conversations."
+* [CometLLM](https://github.com/comet-ml/comet-llm) ⭐ 19,345 | 🐛 142 | 🌐 Python | 📅 2026-05-20 - Track, log, visualize and evaluate your LLM prompts and prompt chains.
 * [Fuzzy Wuzzy](https://github.com/seatgeek/fuzzywuzzy) ⚠️ Archived - Fuzzy String Matching in Python.
-* [Pattern](https://github.com/clips/pattern) ⭐ 8,856 | 🐛 178 | 🌐 Python | 📅 2024-06-10 - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
-* [DeepPavlov](https://github.com/deepmipt/DeepPavlov/) ⭐ 6,982 | 🐛 53 | 🌐 Python | 📅 2025-08-06 - conversational AI library with many pre-trained Russian NLP models.
-* [pkuseg-python](https://github.com/lancopku/pkuseg-python) ⭐ 6,704 | 🐛 135 | 🌐 Python | 📅 2022-11-05 - A better version of Jieba, developed by Peking University.
-* [SnowNLP](https://github.com/isnowfy/snownlp) ⭐ 6,623 | 🐛 44 | 🌐 Python | 📅 2020-01-19 - A library for processing Chinese text.
+* [Pattern](https://github.com/clips/pattern) ⭐ 8,855 | 🐛 178 | 🌐 Python | 📅 2024-06-10 - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
+* [DeepPavlov](https://github.com/deepmipt/DeepPavlov/) ⭐ 6,983 | 🐛 53 | 🌐 Python | 📅 2025-08-06 - conversational AI library with many pre-trained Russian NLP models.
+* [pkuseg-python](https://github.com/lancopku/pkuseg-python) ⭐ 6,706 | 🐛 135 | 🌐 Python | 📅 2022-11-05 - A better version of Jieba, developed by Peking University.
+* [SnowNLP](https://github.com/isnowfy/snownlp) ⭐ 6,625 | 🐛 44 | 🌐 Python | 📅 2020-01-19 - A library for processing Chinese text.
 * [DrQA](https://github.com/facebookresearch/DrQA) ⚠️ Archived - Reading Wikipedia to answer open-domain questions.
-* [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,464 | 🐛 88 | 🌐 Python | 📅 2025-07-29 - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
+* [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,466 | 🐛 88 | 🌐 Python | 📅 2025-07-29 - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 * [Snips NLU](https://github.com/snipsco/snips-nlu) ⭐ 3,968 | 🐛 67 | 🌐 Python | 📅 2023-05-22 - Natural Language Understanding library for intent classification and entity extraction
 * [Polyglot](https://github.com/aboSamoor/polyglot) ⭐ 2,367 | 🐛 170 | 🌐 Python | 📅 2023-11-10 - Multilingual text (NLP) processing toolkit.
 * [textacy](https://github.com/chartbeat-labs/textacy) ⭐ 2,242 | 🐛 35 | 🌐 Python | 📅 2023-09-22 - higher-level NLP built on Spacy.
-* [jellyfish](https://github.com/jamesturk/jellyfish) ⭐ 2,210 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-04-07 - a python library for doing approximate and phonetic matching of strings.
+* [jellyfish](https://github.com/jamesturk/jellyfish) ⭐ 2,212 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-04-07 - a python library for doing approximate and phonetic matching of strings.
 * [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER) ⭐ 1,721 | 🐛 91 | 🌐 Python | 📅 2023-03-24 - Named-entity recognition using neural networks providing state-of-the-art-results
 * [Quepy](https://github.com/machinalis/quepy) ⭐ 1,265 | 🐛 28 | 🌐 Python | 📅 2020-12-29 - A python framework to transform natural language questions to queries in a database query language.
-* [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) ⭐ 923 | 🐛 44 | 🌐 Rust | 📅 2026-05-18 - The simplest way to run an LLM locally. Supports tool calling and grammar constrained sampling.
+* [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) ⭐ 930 | 🐛 42 | 🌐 Rust | 📅 2026-05-19 - The simplest way to run an LLM locally. Supports tool calling and grammar constrained sampling.
 * [CLTK](https://github.com/cltk/cltk) ⭐ 907 | 🐛 5 | 🌐 Python | 📅 2026-02-12 - The Classical Language Toolkit.
 * [BigARTM](https://github.com/bigartm/bigartm) ⭐ 673 | 🐛 138 | 🌐 C++ | 📅 2026-02-05 - topic modelling platform.
-* [stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) ⭐ 611 | 🐛 47 | 🌐 Python | 📅 2018-03-14 - Python wrapper for [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,075 | 🐛 182 | 🌐 Java | 📅 2026-05-13 **\[Deprecated]**
+* [stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) ⭐ 611 | 🐛 47 | 🌐 Python | 📅 2018-03-14 - Python wrapper for [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,077 | 🐛 182 | 🌐 Java | 📅 2026-05-13 **\[Deprecated]**
 * [DL Translate](https://github.com/xhlulu/dl-translate) ⭐ 498 | 🐛 5 | 🌐 Python | 📅 2024-09-02 - A deep learning-based translation library between 50 languages, built with `transformers`.
 * [PyNLPl](https://github.com/proycon/pynlpl) ⭐ 476 | 🐛 3 | 🌐 Python | 📅 2023-09-14 - Python Natural Language Processing Library. General purpose NLP library for Python. Also contains some specific modules for parsing common NLP formats, most notably for [FoLiA](https://proycon.github.io/folia/), but also ARPA language models, Moses phrasetables, GIZA++ alignments.
 * [PySS3](https://github.com/sergioburdisso/pyss3) ⭐ 348 | 🐛 6 | 🌐 Python | 📅 2025-10-16 - Python package that implements a novel white-box machine learning model for text classification, called SS3. Since SS3 has the ability to visually explain its rationale, this package also comes with easy-to-use interactive visualizations tools ([online demos](http://tworld.io/ss3/)).
-* [VeritasGraph](https://github.com/bibinprathap/VeritasGraph) ⭐ 277 | 🐛 1 | 🌐 Python | 📅 2026-05-17 - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
+* [VeritasGraph](https://github.com/bibinprathap/VeritasGraph) ⭐ 278 | 🐛 1 | 🌐 Python | 📅 2026-05-17 - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
 * [genius](https://github.com/duanhongyi/genius) ⭐ 234 | 🐛 0 | 🌐 Python | 📅 2018-12-19 - A Chinese segment based on Conditional Random Field.
 * [Rosetta](https://github.com/columbia-applied-data-science/rosetta) ⭐ 207 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2022-11-09 - Text processing tools and wrappers (e.g. Vowpal Wabbit)
 * [spammy](https://github.com/tasdikrahman/spammy) ⭐ 145 | 🐛 3 | 🌐 Python | 📅 2019-10-03 - A library for email Spam filtering built on top of NLTK
@@ -1268,89 +1268,89 @@ Further resources:
 
 #### General-Purpose Machine Learning
 
-* [TensorFlow](https://github.com/tensorflow/tensorflow/) ⭐ 195,154 | 🐛 5,367 | 🌐 C++ | 📅 2026-05-19 - Open source software library for numerical computation using data flow graphs.
-* [PyTorch](https://github.com/pytorch/pytorch) ⭐ 99,997 | 🐛 18,508 | 🌐 Python | 📅 2026-05-19 - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-* [keras](https://github.com/keras-team/keras) ⭐ 64,072 | 🐛 192 | 🌐 Python | 📅 2026-05-19 - High-level neural networks frontend for [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 195,154 | 🐛 5,367 | 🌐 C++ | 📅 2026-05-19, [CNTK](https://github.com/Microsoft/CNTK) ⚠️ Archived and [Theano](https://github.com/Theano/Theano) ⭐ 9,992 | 🐛 698 | 🌐 Python | 📅 2024-01-15.
-* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 44,639 | 🐛 1,321 | 🌐 Python | 📅 2026-05-19: Streamlit is an framework to create beautiful data apps in hours, not weeks.
-* [Gradio](https://github.com/gradio-app/gradio) ⭐ 42,620 | 🐛 470 | 🌐 Python | 📅 2026-05-18 - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
-* [Colossal-AI](https://github.com/hpcaitech/ColossalAI) ⭐ 41,386 | 🐛 499 | 🌐 Python | 📅 2026-05-18: An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,186 | 🐛 83 | 🌐 Python | 📅 2026-05-17 - Open Source framework to streamline use of neural networks.
-* [JAX](https://github.com/google/jax) ⭐ 35,626 | 🐛 2,360 | 🌐 Python | 📅 2026-05-19 - JAX is Autograd and XLA, brought together for high-performance machine learning research.
+* [TensorFlow](https://github.com/tensorflow/tensorflow/) ⭐ 195,194 | 🐛 5,437 | 🌐 C++ | 📅 2026-05-20 - Open source software library for numerical computation using data flow graphs.
+* [PyTorch](https://github.com/pytorch/pytorch) ⭐ 100,026 | 🐛 18,455 | 🌐 Python | 📅 2026-05-20 - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+* [keras](https://github.com/keras-team/keras) ⭐ 64,077 | 🐛 192 | 🌐 Python | 📅 2026-05-20 - High-level neural networks frontend for [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 195,194 | 🐛 5,437 | 🌐 C++ | 📅 2026-05-20, [CNTK](https://github.com/Microsoft/CNTK) ⚠️ Archived and [Theano](https://github.com/Theano/Theano) ⭐ 9,992 | 🐛 699 | 🌐 Python | 📅 2024-01-15.
+* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 44,650 | 🐛 1,305 | 🌐 Python | 📅 2026-05-20: Streamlit is an framework to create beautiful data apps in hours, not weeks.
+* [Gradio](https://github.com/gradio-app/gradio) ⭐ 42,633 | 🐛 469 | 🌐 Python | 📅 2026-05-20 - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+* [Colossal-AI](https://github.com/hpcaitech/ColossalAI) ⭐ 41,389 | 🐛 499 | 🌐 Python | 📅 2026-05-18: An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,191 | 🐛 89 | 🌐 Python | 📅 2026-05-17 - Open Source framework to streamline use of neural networks.
+* [JAX](https://github.com/google/jax) ⭐ 35,640 | 🐛 2,377 | 🌐 Python | 📅 2026-05-20 - JAX is Autograd and XLA, brought together for high-performance machine learning research.
 * [Caffe](https://github.com/BVLC/caffe) ⭐ 34,599 | 🐛 1,180 | 🌐 C++ | 📅 2024-07-31 - A deep learning framework developed with cleanliness, readability, and speed in mind.
-* [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 31,497 | 🐛 73 | 🌐 Python | 📅 2023-10-15 - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
-* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,147 | 🐛 1,015 | 🌐 Python | 📅 2026-05-18 - The lightweight PyTorch wrapper for high-performance AI research.
-* [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,394 | 🐛 460 | 🌐 C++ | 📅 2026-05-14 - Python bindings for eXtreme Gradient Boosting (Tree) Library.
-* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,147 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25 - Book/iPython notebooks on Probabilistic Programming in Python.
-* [Fastai](https://github.com/fastai/fastai) ⭐ 28,008 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2026-04-28 - High-level wrapper built on the top of Pytorch which supports vision, text, tabular data and collaborative filtering.
-* [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric) ⭐ 23,772 | 🐛 1,276 | 🌐 Python | 📅 2026-05-18 -> Graph Neural Network Library for PyTorch.
-* [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ⭐ 21,705 | 🐛 176 | 🌐 Python | 📅 2026-05-18: Examples and best practices for building recommendation systems, provided as Jupyter notebooks. The repo contains some of the latest state of the art algorithms from Microsoft Research as well as from other companies and institutions.
+* [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 31,507 | 🐛 73 | 🌐 Python | 📅 2023-10-15 - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
+* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,152 | 🐛 1,014 | 🌐 Python | 📅 2026-05-20 - The lightweight PyTorch wrapper for high-performance AI research.
+* [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,399 | 🐛 462 | 🌐 C++ | 📅 2026-05-19 - Python bindings for eXtreme Gradient Boosting (Tree) Library.
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,150 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25 - Book/iPython notebooks on Probabilistic Programming in Python.
+* [Fastai](https://github.com/fastai/fastai) ⭐ 28,011 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2026-04-28 - High-level wrapper built on the top of Pytorch which supports vision, text, tabular data and collaborative filtering.
+* [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric) ⭐ 23,774 | 🐛 1,276 | 🌐 Python | 📅 2026-05-18 -> Graph Neural Network Library for PyTorch.
+* [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ⭐ 21,708 | 🐛 176 | 🌐 Python | 📅 2026-05-20: Examples and best practices for building recommendation systems, provided as Jupyter notebooks. The repo contains some of the latest state of the art algorithms from Microsoft Research as well as from other companies and institutions.
 * [MXNet](https://github.com/apache/incubator-mxnet) ⚠️ Archived - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
-* [Opik](https://github.com/comet-ml/opik) ⭐ 19,338 | 🐛 141 | 🌐 Python | 📅 2026-05-19: Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
-* [Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) ⭐ 17,657 | 🐛 7 | 🌐 Python | 📅 2024-06-02 - Code samples for my book "Neural Networks and Deep Learning" \[DEEP LEARNING].
+* [Opik](https://github.com/comet-ml/opik) ⭐ 19,345 | 🐛 142 | 🌐 Python | 📅 2026-05-20: Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
+* [Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) ⭐ 17,659 | 🐛 7 | 🌐 Python | 📅 2024-06-02 - Code samples for my book "Neural Networks and Deep Learning" \[DEEP LEARNING].
 * [CNTK](https://github.com/Microsoft/CNTK) ⚠️ Archived - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. Documentation can be found [here](https://docs.microsoft.com/cognitive-toolkit/).
 * [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,413 | 🐛 437 | 🌐 Python | 📅 2025-11-01 - Topic Modelling for Humans.
-* [numpy-ML](https://github.com/ddbourgin/numpy-ml) ⭐ 16,344 | 🐛 41 | 🌐 Python | 📅 2023-10-29: Reference implementations of ML models written in numpy
+* [numpy-ML](https://github.com/ddbourgin/numpy-ml) ⭐ 16,344 | 🐛 46 | 🌐 Python | 📅 2023-10-29: Reference implementations of ML models written in numpy
 * [Annoy](https://github.com/spotify/annoy) ⭐ 14,238 | 🐛 76 | 🌐 C++ | 📅 2025-10-29 - Approximate nearest neighbours implementation.
-* [Optuna](https://github.com/optuna/optuna) ⭐ 14,190 | 🐛 39 | 🌐 Python | 📅 2026-05-19: Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+* [Optuna](https://github.com/optuna/optuna) ⭐ 14,198 | 🐛 36 | 🌐 Python | 📅 2026-05-20: Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 * [cleanlab](https://github.com/cleanlab/cleanlab) ⭐ 11,472 | 🐛 105 | 🌐 Python | 📅 2026-01-13: The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 * [Turi Create](https://github.com/apple/turicreate) ⚠️ Archived - Machine learning from Apple. Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
-* [AutoGluon](https://github.com/awslabs/autogluon) ⭐ 10,345 | 🐛 399 | 🌐 Python | 📅 2026-05-18: AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+* [AutoGluon](https://github.com/awslabs/autogluon) ⭐ 10,347 | 🐛 397 | 🌐 Python | 📅 2026-05-19: AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 * [TPOT](https://github.com/EpistasisLab/tpot) ⭐ 10,049 | 🐛 311 | 🌐 Jupyter Notebook | 📅 2025-09-11 - Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
-* [Theano](https://github.com/Theano/Theano/) ⭐ 9,992 | 🐛 698 | 🌐 Python | 📅 2024-01-15 - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
+* [Theano](https://github.com/Theano/Theano/) ⭐ 9,992 | 🐛 699 | 🌐 Python | 📅 2024-01-15 - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
 * [PySyft](https://github.com/OpenMined/PySyft) ⭐ 9,889 | 🐛 67 | 🌐 Python | 📅 2025-07-15 - A Python library for secure and private Deep Learning built on PyTorch and TensorFlow.
-* [PyOD](https://github.com/yzhao062/pyod) ⭐ 9,844 | 🐛 225 | 🌐 Python | 📅 2026-05-19 -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
-* [sktime](https://github.com/alan-turing-institute/sktime) ⭐ 9,765 | 🐛 2,337 | 🌐 Python | 📅 2026-05-19 - A unified framework for machine learning with time series
+* [PyOD](https://github.com/yzhao062/pyod) ⭐ 9,848 | 🐛 226 | 🌐 Python | 📅 2026-05-19 -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
+* [sktime](https://github.com/alan-turing-institute/sktime) ⭐ 9,767 | 🐛 2,335 | 🌐 Python | 📅 2026-05-20 - A unified framework for machine learning with time series
 * [TFLearn](https://github.com/tflearn/tflearn) ⭐ 9,587 | 🐛 579 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API for TensorFlow.
-* [einops](https://github.com/arogozhnikov/einops) ⭐ 9,485 | 🐛 40 | 🌐 Python | 📅 2026-04-19 - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
-* [Hub](https://github.com/activeloopai/Hub) ⭐ 9,127 | 🐛 67 | 🌐 C++ | 📅 2026-05-12 - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
-* [CatBoost](https://github.com/catboost/catboost) ⭐ 8,951 | 🐛 698 | 🌐 C++ | 📅 2026-05-19 - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, well documented and supports CPU and GPU (even multi-GPU) computation.
-* [pattern](https://github.com/clips/pattern) ⭐ 8,856 | 🐛 178 | 🌐 Python | 📅 2024-06-10 - Web mining module for Python.
-* [BentoML](https://github.com/bentoml/bentoml) ⭐ 8,654 | 🐛 150 | 🌐 Python | 📅 2026-05-07: Toolkit for package and deploy machine learning models for serving in production
+* [einops](https://github.com/arogozhnikov/einops) ⭐ 9,488 | 🐛 40 | 🌐 Python | 📅 2026-04-19 - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
+* [Hub](https://github.com/activeloopai/Hub) ⭐ 9,129 | 🐛 67 | 🌐 C++ | 📅 2026-05-12 - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
+* [CatBoost](https://github.com/catboost/catboost) ⭐ 8,952 | 🐛 699 | 🌐 C++ | 📅 2026-05-19 - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, well documented and supports CPU and GPU (even multi-GPU) computation.
+* [pattern](https://github.com/clips/pattern) ⭐ 8,855 | 🐛 178 | 🌐 Python | 📅 2024-06-10 - Web mining module for Python.
+* [BentoML](https://github.com/bentoml/bentoml) ⭐ 8,655 | 🐛 153 | 🌐 Python | 📅 2026-05-07: Toolkit for package and deploy machine learning models for serving in production
 * [Cortex](https://github.com/cortexlabs/cortex) ⭐ 8,018 | 🐛 131 | 🌐 Go | 📅 2024-06-12 - Open source platform for deploying machine learning models in production.
-* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,503 | 🐛 275 | 🌐 Jupyter Notebook | 📅 2026-05-02: Interactive reports to analyze machine learning models during validation or production monitoring.
-* [InterpretML](https://github.com/interpretml/interpret) ⭐ 6,853 | 🐛 46 | 🌐 C++ | 📅 2026-05-18 - InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also provides visualization tools for EBMs, other glass-box models, and black-box explanations.
-* [ClearML](https://github.com/clearml/clearml) ⭐ 6,677 | 🐛 561 | 🌐 Python | 📅 2026-05-15 -  Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution.
-* [deap](https://github.com/deap/deap) ⭐ 6,397 | 🐛 281 | 🌐 Python | 📅 2026-04-17 - Evolutionary algorithm framework.
-* [NuPIC](https://github.com/numenta/nupic) ⭐ 6,353 | 🐛 465 | 🌐 Python | 📅 2024-12-03 - Numenta Platform for Intelligent Computing.
-* [skorch](https://github.com/skorch-dev/skorch) ⭐ 6,159 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2026-05-19 - A scikit-learn compatible neural network library that wraps PyTorch.
-* [Aim](https://github.com/aimhubio/aim) ⭐ 6,121 | 🐛 462 | 🌐 Python | 📅 2026-05-18 -> An easy-to-use & supercharged open-source AI metadata tracker.
+* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,508 | 🐛 276 | 🌐 Jupyter Notebook | 📅 2026-05-02: Interactive reports to analyze machine learning models during validation or production monitoring.
+* [InterpretML](https://github.com/interpretml/interpret) ⭐ 6,852 | 🐛 47 | 🌐 C++ | 📅 2026-05-19 - InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also provides visualization tools for EBMs, other glass-box models, and black-box explanations.
+* [ClearML](https://github.com/clearml/clearml) ⭐ 6,687 | 🐛 561 | 🌐 Python | 📅 2026-05-15 -  Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution.
+* [deap](https://github.com/deap/deap) ⭐ 6,398 | 🐛 281 | 🌐 Python | 📅 2026-04-17 - Evolutionary algorithm framework.
+* [NuPIC](https://github.com/numenta/nupic) ⭐ 6,352 | 🐛 465 | 🌐 Python | 📅 2024-12-03 - Numenta Platform for Intelligent Computing.
+* [skorch](https://github.com/skorch-dev/skorch) ⭐ 6,159 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-05-19 - A scikit-learn compatible neural network library that wraps PyTorch.
+* [Aim](https://github.com/aimhubio/aim) ⭐ 6,122 | 🐛 462 | 🌐 Python | 📅 2026-05-19 -> An easy-to-use & supercharged open-source AI metadata tracker.
 * [Chainer](https://github.com/chainer/chainer) ⭐ 5,916 | 🐛 13 | 🌐 Python | 📅 2023-08-28 - Flexible neural network framework.
-* [River](https://github.com/online-ml/river) ⭐ 5,818 | 🐛 91 | 🌐 Python | 📅 2026-05-12: A framework for general purpose online machine learning.
-* [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) ⭐ 5,229 | 🐛 394 | 🌐 Scala | 📅 2026-05-09 -> A distributed machine learning framework Apache Spark
-* [mlxtend](https://github.com/rasbt/mlxtend) ⭐ 5,145 | 🐛 159 | 🌐 Python | 📅 2026-01-24 - A library consisting of useful tools for data science and machine learning tasks.
+* [River](https://github.com/online-ml/river) ⭐ 5,819 | 🐛 92 | 🌐 Python | 📅 2026-05-20: A framework for general purpose online machine learning.
+* [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) ⭐ 5,229 | 🐛 393 | 🌐 Scala | 📅 2026-05-20 -> A distributed machine learning framework Apache Spark
+* [mlxtend](https://github.com/rasbt/mlxtend) ⭐ 5,145 | 🐛 160 | 🌐 Python | 📅 2026-01-24 - A library consisting of useful tools for data science and machine learning tasks.
 * [DIGITS](https://github.com/NVIDIA/DIGITS) ⚠️ Archived - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.
-* [Deepchecks](https://github.com/deepchecks/deepchecks) ⭐ 4,015 | 🐛 262 | 🌐 Python | 📅 2025-12-28: Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
+* [Deepchecks](https://github.com/deepchecks/deepchecks) ⭐ 4,016 | 🐛 262 | 🌐 Python | 📅 2025-12-28: Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 * [neon](https://github.com/NervanaSystems/neon) ⚠️ Archived - Nervana's [high-performance](https://github.com/soumith/convnet-benchmarks) ⭐ 2,688 | 🐛 34 | 🌐 Python | 📅 2017-06-09 Python-based Deep Learning framework \[DEEP LEARNING]. **\[Deprecated]**
 * [Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,864 | 🐛 139 | 🌐 Python | 📅 2022-03-26 - Lightweight library to build and train neural networks in Theano.
-* [pomegranate](https://github.com/jmschrei/pomegranate) ⭐ 3,531 | 🐛 44 | 🌐 Python | 📅 2025-03-06 - Hidden Markov Models for Python, implemented in Cython for speed and efficiency.
-* [Catalyst](https://github.com/catalyst-team/catalyst) ⭐ 3,378 | 🐛 4 | 🌐 Python | 📅 2025-06-27 - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
+* [pomegranate](https://github.com/jmschrei/pomegranate) ⭐ 3,533 | 🐛 44 | 🌐 Python | 📅 2025-03-06 - Hidden Markov Models for Python, implemented in Cython for speed and efficiency.
+* [Catalyst](https://github.com/catalyst-team/catalyst) ⭐ 3,377 | 🐛 4 | 🌐 Python | 📅 2025-06-27 - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 * [PyBroker](https://github.com/edtechre/pybroker) ⭐ 3,323 | 🐛 9 | 🌐 Python | 📅 2026-05-11 - Algorithmic Trading with Machine Learning.
-* [pgmpy](https://github.com/pgmpy/pgmpy) ⭐ 3,266 | 🐛 557 | 🌐 Python | 📅 2026-05-18 A python library for working with Probabilistic Graphical Models.
+* [pgmpy](https://github.com/pgmpy/pgmpy) ⭐ 3,267 | 🐛 557 | 🌐 Python | 📅 2026-05-19 A python library for working with Probabilistic Graphical Models.
 * [mljar-supervised](https://github.com/mljar/mljar-supervised) ⭐ 3,260 | 🐛 148 | 🌐 Python | 📅 2026-05-18 - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
 * [Determined](https://github.com/determined-ai/determined) ⭐ 3,225 | 🐛 106 | 🌐 Go | 📅 2025-03-20 - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
-* [Shapash](https://github.com/MAIF/shapash) ⭐ 3,218 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2026-04-28 : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
-* [igel](https://github.com/nidhaloff/igel) ⭐ 3,136 | 🐛 18 | 🌐 Python | 📅 2025-12-07 -> A delightful machine learning tool that allows you to train/fit, test and use models **without writing code**
+* [Shapash](https://github.com/MAIF/shapash) ⭐ 3,220 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2026-04-28 : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
+* [igel](https://github.com/nidhaloff/igel) ⭐ 3,135 | 🐛 18 | 🌐 Python | 📅 2025-12-07 -> A delightful machine learning tool that allows you to train/fit, test and use models **without writing code**
 * [xLearn](https://github.com/aksnzhy/xlearn) ⭐ 3,097 | 🐛 194 | 🌐 C++ | 📅 2023-08-28 - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems.
 * [Shogun](https://github.com/shogun-toolbox/shogun) ⭐ 3,065 | 🐛 423 | 🌐 C++ | 📅 2023-12-19 - The Shogun Machine Learning Toolbox.
-* [StellarGraph](https://github.com/stellargraph/stellargraph) ⭐ 3,057 | 🐛 326 | 🌐 Python | 📅 2024-04-10: Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+* [StellarGraph](https://github.com/stellargraph/stellargraph) ⭐ 3,058 | 🐛 326 | 🌐 Python | 📅 2024-04-10: Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 * [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) ⭐ 2,981 | 🐛 31 | 🌐 Python | 📅 2025-09-18 -> A temporal extension of PyTorch Geometric for dynamic graph representation learning.
 * [PyBrain](https://github.com/pybrain/pybrain) ⭐ 2,862 | 🐛 156 | 🌐 Python | 📅 2024-06-27 - Another Python Machine Learning Library.
-* [Pylearn2](https://github.com/lisa-lab/pylearn2) ⭐ 2,769 | 🐛 201 | 🌐 Python | 📅 2021-08-20 - A Machine Learning library based on [Theano](https://github.com/Theano/Theano) ⭐ 9,992 | 🐛 698 | 🌐 Python | 📅 2024-01-15. **\[Deprecated]**
+* [Pylearn2](https://github.com/lisa-lab/pylearn2) ⭐ 2,769 | 🐛 201 | 🌐 Python | 📅 2021-08-20 - A Machine Learning library based on [Theano](https://github.com/Theano/Theano) ⭐ 9,992 | 🐛 699 | 🌐 Python | 📅 2024-01-15. **\[Deprecated]**
 * [modAL](https://github.com/modAL-python/modAL) ⭐ 2,350 | 🐛 108 | 🌐 Python | 📅 2024-02-26 - A modular active learning framework for Python, built on top of scikit-learn.
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,280 | 🐛 12 | 🌐 Python | 📅 2024-07-17 -> An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
 * [Feature-engine](https://github.com/feature-engine/feature_engine) ⭐ 2,238 | 🐛 80 | 🌐 Python | 📅 2026-03-28 - Open source library with an exhaustive battery of feature engineering and selection methods based on pandas and scikit-learn.
-* [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) ⭐ 1,860 | 🐛 10 | 🌐 Python | 📅 2026-05-18 - Universal memory service with semantic search, autonomous consolidation, and multi-client support for AI applications.
+* [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) ⭐ 1,863 | 🐛 10 | 🌐 Python | 📅 2026-05-20 - Universal memory service with semantic search, autonomous consolidation, and multi-client support for AI applications.
 * [PyTorch Lightning Bolts](https://github.com/PyTorchLightning/pytorch-lightning-bolts) ⚠️ Archived - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 * [thinking bayes](https://github.com/AllenDowney/ThinkBayes) ⭐ 1,695 | 🐛 12 | 🌐 TeX | 📅 2021-03-12 - Book on Bayesian Analysis.
 * [auto\_ml](https://github.com/ClimbsRocks/auto_ml) ⭐ 1,654 | 🐛 187 | 🌐 Python | 📅 2021-02-10 - Automated machine learning for production and analytics. Lets you focus on the fun parts of ML, while outputting production-ready code, and detailed analytics of your dataset and results. Includes support for NLP, XGBoost, CatBoost, LightGBM, and soon, deep learning.
-* [skrub](https://github.com/skrub-data/skrub) ⭐ 1,613 | 🐛 143 | 🌐 Python | 📅 2026-05-12 - Skrub is a Python library that eases preprocessing and feature engineering for machine learning on dataframes.
+* [skrub](https://github.com/skrub-data/skrub) ⭐ 1,613 | 🐛 146 | 🌐 Python | 📅 2026-05-19 - Skrub is a Python library that eases preprocessing and feature engineering for machine learning on dataframes.
 * [Spearmint](https://github.com/HIPS/Spearmint) ⭐ 1,569 | 🐛 77 | 🌐 Python | 📅 2019-12-27 - Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper: Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams. Advances in Neural Information Processing Systems, 2012. **\[Deprecated]**
-* [skforecast](https://github.com/skforecast/skforecast) ⭐ 1,491 | 🐛 15 | 🌐 Python | 📅 2026-05-18 - Python library for time series forecasting using machine learning models. It works with any regressor compatible with the scikit-learn API, including popular options like LightGBM, XGBoost, CatBoost, Keras, and many others.
+* [skforecast](https://github.com/skforecast/skforecast) ⭐ 1,491 | 🐛 15 | 🌐 Python | 📅 2026-05-19 - Python library for time series forecasting using machine learning models. It works with any regressor compatible with the scikit-learn API, including popular options like LightGBM, XGBoost, CatBoost, Keras, and many others.
 * [python-recsys](https://github.com/ocelma/python-recsys) ⭐ 1,479 | 🐛 9 | 🌐 Python | 📅 2020-12-29 - A Python library for implementing a Recommender System.
 * [metric-learn](https://github.com/metric-learn/metric-learn) ⭐ 1,434 | 🐛 51 | 🌐 Python | 📅 2026-03-19 - A Python module for metric learning.
-* [nilearn](https://github.com/nilearn/nilearn) ⭐ 1,396 | 🐛 291 | 🌐 Python | 📅 2026-05-18 - Machine learning for NeuroImaging in Python.
+* [nilearn](https://github.com/nilearn/nilearn) ⭐ 1,397 | 🐛 291 | 🌐 Python | 📅 2026-05-19 - Machine learning for NeuroImaging in Python.
 * [pydeep](https://github.com/andersbll/deeppy) ⭐ 1,374 | 🐛 22 | 🌐 Python | 📅 2020-12-28 - Deep Learning In Python. **\[Deprecated]**
-* [Intel(R) Extension for Scikit-learn](https://github.com/intel/scikit-learn-intelex) ⭐ 1,342 | 🐛 77 | 🌐 Python | 📅 2026-05-19 - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
+* [Intel(R) Extension for Scikit-learn](https://github.com/intel/scikit-learn-intelex) ⭐ 1,344 | 🐛 76 | 🌐 Python | 📅 2026-05-20 - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
 * [Brainstorm](https://github.com/IDSIA/brainstorm) ⭐ 1,307 | 🐛 27 | 🌐 Python | 📅 2022-09-13 - Fast, flexible and fun neural networks. This is the successor of PyBrain.
 * [ML/DL project template](https://github.com/PyTorchLightning/deep-learning-project-template) ⚠️ Archived
 * [Xcessiv](https://github.com/reiinakano/xcessiv) ⭐ 1,266 | 🐛 22 | 🌐 Python | 📅 2018-06-06 - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
@@ -1370,7 +1370,7 @@ Further resources:
 * [FEDOT](https://github.com/nccr-itmo/FEDOT) ⭐ 704 | 🐛 84 | 🌐 Python | 📅 2026-05-15: An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
 * [REP](https://github.com/yandex/rep) ⭐ 700 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2024-07-31 - an IPython-based environment for conducting data-driven research in a consistent and reproducible way. REP is not trying to substitute scikit-learn, but extends it and provides better user experience. **\[Deprecated]**
 * [Opytimizer](https://github.com/gugarosa/opytimizer) ⭐ 632 | 🐛 7 | 🌐 Python | 📅 2026-05-02 - Python-based meta-heuristic optimization techniques.
-* [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics) ⭐ 629 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-05-14: A tutorial to help machine learning researchers to automatically obtain optimized machine learning models with the optimal learning performance on any specific task.
+* [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics) ⭐ 628 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-05-14: A tutorial to help machine learning researchers to automatically obtain optimized machine learning models with the optimal learning performance on any specific task.
 * [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 614 | 🐛 2 | 🌐 Python | 📅 2026-02-20: A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
 * [PyGrid](https://github.com/OpenMined/PyGrid/) ⚠️ Archived - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 * [milk](https://github.com/luispedro/milk) ⚠️ Archived - Machine learning toolkit focused on supervised classification. **\[Deprecated]**
@@ -1391,8 +1391,8 @@ Further resources:
 * [fuku-ml](https://github.com/fukuball/fuku-ml) ⭐ 284 | 🐛 14 | 🌐 Python | 📅 2025-08-07 - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
 * [RexMex](https://github.com/AstraZeneca/rexmex) ⭐ 277 | 🐛 4 | 🌐 Python | 📅 2023-08-22 -> A general purpose recommender metrics library for fair evaluation.
 * [evostra](https://github.com/alirezamika/evostra) ⭐ 274 | 🐛 8 | 🌐 Python | 📅 2020-04-27 - A fast Evolution Strategy implementation in Python.
-* [machine learning](https://github.com/jeff1evesque/machine-learning) ⭐ 259 | 🐛 78 | 🌐 JavaScript | 📅 2021-02-17 - automated build consisting of a [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface) ⭐ 259 | 🐛 78 | 🌐 JavaScript | 📅 2021-02-17, and set of [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface) ⭐ 259 | 🐛 78 | 🌐 JavaScript | 📅 2021-02-17 API, for support vector machines. Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
-* [Frouros](https://github.com/IFCA/frouros) ⭐ 254 | 🐛 16 | 🌐 Python | 📅 2026-04-23: Frouros is an open source Python library for drift detection in machine learning systems.
+* [machine learning](https://github.com/jeff1evesque/machine-learning) ⭐ 260 | 🐛 78 | 🌐 JavaScript | 📅 2021-02-17 - automated build consisting of a [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface) ⭐ 260 | 🐛 78 | 🌐 JavaScript | 📅 2021-02-17, and set of [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface) ⭐ 260 | 🐛 78 | 🌐 JavaScript | 📅 2021-02-17 API, for support vector machines. Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
+* [Frouros](https://github.com/IFCA/frouros) ⭐ 255 | 🐛 16 | 🌐 Python | 📅 2026-04-23: Frouros is an open source Python library for drift detection in machine learning systems.
 * [Backprop](https://github.com/backprop-ai/backprop) ⭐ 242 | 🐛 5 | 🌐 Python | 📅 2021-05-03 - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 * [Shapley](https://github.com/benedekrozemberczki/shapley) ⭐ 225 | 🐛 1 | 🌐 Python | 📅 2026-01-01 -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 * [Eurybia](https://github.com/MAIF/eurybia) ⭐ 219 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-03-23: Eurybia monitors data and model drift over time and securizes model deployment with data validation.
@@ -1404,10 +1404,10 @@ Further resources:
 * [stacked\_generalization](https://github.com/fukatani/stacked_generalization) ⭐ 119 | 🐛 3 | 🌐 Python | 📅 2019-05-02 - Implementation of machine learning stacking technique as a handy library in Python.
 * [neuropredict](https://github.com/raamana/neuropredict) ⭐ 104 | 🐛 29 | 🌐 Python | 📅 2026-01-19 - Aimed at novice machine learners and non-expert programmers, this package offers easy (no coding needed) and comprehensive machine learning (evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
 * [Pebl](https://github.com/abhik/pebl/) ⭐ 104 | 🐛 4 | 🌐 Python | 📅 2011-11-16 - Python Environment for Bayesian Learning. **\[Deprecated]**
+* [bayeso](https://github.com/jungtaekkim/bayeso) ⭐ 96 | 🐛 1 | 🌐 Python | 📅 2026-01-12 - A simple, but essential Bayesian optimization package, written in Python.
 * [breze](https://github.com/breze-no-salt/breze) ⭐ 95 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2016-09-02 - Theano based library for deep and recurrent neural networks.
-* [bayeso](https://github.com/jungtaekkim/bayeso) ⭐ 95 | 🐛 1 | 🌐 Python | 📅 2026-01-12 - A simple, but essential Bayesian optimization package, written in Python.
 * [topik](https://github.com/ContinuumIO/topik) ⚠️ Archived - Topic modelling toolkit. **\[Deprecated]**
-* [Neurolink](https://github.com/juspay/neurolink) ⭐ 91 | 🐛 280 | 🌐 TypeScript | 📅 2026-05-17 - Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support.
+* [Neurolink](https://github.com/juspay/neurolink) ⭐ 91 | 🐛 281 | 🌐 TypeScript | 📅 2026-05-19 - Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support.
 * [Bolt](https://github.com/pprett/bolt) ⭐ 87 | 🐛 0 | 🌐 C | 📅 2011-10-05 - Bolt Online Learning Toolbox. **\[Deprecated]**
 * [Cogitare](https://github.com/cogitare-ai/cogitare) ⚠️ Archived: A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python.
 * [Synthia](https://github.com/dmey/synthia) ⭐ 68 | 🐛 2 | 🌐 Python | 📅 2023-09-28 - Multidimensional synthetic data generation in Python.
@@ -1450,33 +1450,33 @@ Further resources:
 
 #### Data Analysis / Data Visualization
 
-* [Superset](https://github.com/apache/incubator-superset) ⭐ 72,906 | 🐛 1,229 | 🌐 TypeScript | 📅 2026-05-19 - A data exploration platform designed to be visual, intuitive, and interactive.
-* [Dash](https://github.com/plotly/dash) ⭐ 24,199 | 🐛 555 | 🌐 Python | 📅 2026-05-19 - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
-* [bokeh](https://github.com/bokeh/bokeh) ⭐ 20,381 | 🐛 878 | 🌐 TypeScript | 📅 2026-05-18 - Interactive Web Plotting for Python.
-* [zipline](https://github.com/quantopian/zipline) ⭐ 19,785 | 🐛 370 | 🌐 Python | 📅 2024-02-13 - A Pythonic algorithmic trading library.
-* [SymPy](https://github.com/sympy/sympy) ⭐ 14,636 | 🐛 5,738 | 🌐 Python | 📅 2026-05-17 - A Python library for symbolic mathematics.
+* [Superset](https://github.com/apache/incubator-superset) ⭐ 72,916 | 🐛 1,243 | 🌐 TypeScript | 📅 2026-05-20 - A data exploration platform designed to be visual, intuitive, and interactive.
+* [Dash](https://github.com/plotly/dash) ⭐ 24,204 | 🐛 557 | 🌐 Python | 📅 2026-05-19 - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
+* [bokeh](https://github.com/bokeh/bokeh) ⭐ 20,381 | 🐛 878 | 🌐 TypeScript | 📅 2026-05-20 - Interactive Web Plotting for Python.
+* [zipline](https://github.com/quantopian/zipline) ⭐ 19,786 | 🐛 370 | 🌐 Python | 📅 2024-02-13 - A Pythonic algorithmic trading library.
+* [SymPy](https://github.com/sympy/sympy) ⭐ 14,638 | 🐛 5,738 | 🌐 Python | 📅 2026-05-17 - A Python library for symbolic mathematics.
 * [lime](https://github.com/marcotcr/lime) ⭐ 12,132 | 🐛 132 | 🌐 JavaScript | 📅 2024-07-25 - Lime is about explaining what machine learning classifiers (or models) are doing. It is able to explain any black box classifier, with two or more classes.
-* [statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,413 | 🐛 2,970 | 🌐 Python | 📅 2026-05-13 - Statistical modelling and econometrics in Python.
-* [altair](https://github.com/altair-viz/altair) ⭐ 10,379 | 🐛 159 | 🌐 Python | 📅 2026-05-18 - A Python to Vega translator.
-* [PyMC](https://github.com/pymc-devs/pymc) ⭐ 9,617 | 🐛 490 | 🌐 Python | 📅 2026-05-19 - Markov Chain Monte Carlo sampling toolkit.
-* [Vaex](https://github.com/vaexio/vaex) ⭐ 8,504 | 🐛 551 | 🌐 Python | 📅 2026-04-01 - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
-* [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) ⭐ 4,338 | 🐛 520 | 🌐 Python | 📅 2026-03-09 - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
+* [statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,416 | 🐛 2,970 | 🌐 Python | 📅 2026-05-13 - Statistical modelling and econometrics in Python.
+* [altair](https://github.com/altair-viz/altair) ⭐ 10,384 | 🐛 160 | 🌐 Python | 📅 2026-05-19 - A Python to Vega translator.
+* [PyMC](https://github.com/pymc-devs/pymc) ⭐ 9,619 | 🐛 491 | 🌐 Python | 📅 2026-05-19 - Markov Chain Monte Carlo sampling toolkit.
+* [Vaex](https://github.com/vaexio/vaex) ⭐ 8,505 | 🐛 551 | 🌐 Python | 📅 2026-04-01 - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
+* [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) ⭐ 4,339 | 🐛 520 | 🌐 Python | 📅 2026-03-09 - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 * [ggplot](https://github.com/yhat/ggpy) ⚠️ Archived - Same API as ggplot2 for R. **\[Deprecated]**
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,689 | 🐛 279 | 🌐 TypeScript | 📅 2026-05-07 - An API for plotting in Jupyter (IPython).
-* [vispy](https://github.com/vispy/vispy) ⭐ 3,570 | 🐛 381 | 🌐 Python | 📅 2026-05-18 - GPU-based high-performance interactive OpenGL 2D/3D data visualization library.
+* [vispy](https://github.com/vispy/vispy) ⭐ 3,570 | 🐛 381 | 🌐 Python | 📅 2026-05-19 - GPU-based high-performance interactive OpenGL 2D/3D data visualization library.
 * [TensorWatch](https://github.com/microsoft/tensorwatch) ⭐ 3,468 | 🐛 53 | 🌐 Jupyter Notebook | 📅 2026-03-30 - Debugging and visualization tool for machine learning and data science. It extensively leverages Jupyter Notebook to show real-time visualizations of data in running processes such as machine learning training.
 * [Blaze](https://github.com/blaze/blaze) ⭐ 3,196 | 🐛 268 | 🌐 Python | 📅 2023-09-29 - NumPy and Pandas interface to Big Data.
-* [Mars](https://github.com/mars-project/mars) ⭐ 2,744 | 🐛 215 | 🌐 Python | 📅 2024-01-02 - A tensor-based framework for large-scale data computation which is often regarded as a parallel and distributed version of NumPy.
-* [scikit-plot](https://github.com/reiinakano/scikit-plot) ⭐ 2,434 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - A visualization library for quick and easy generation of common plots in data analysis and machine learning.
+* [Mars](https://github.com/mars-project/mars) ⭐ 2,743 | 🐛 215 | 🌐 Python | 📅 2024-01-02 - A tensor-based framework for large-scale data computation which is often regarded as a parallel and distributed version of NumPy.
+* [scikit-plot](https://github.com/reiinakano/scikit-plot) ⭐ 2,433 | 🐛 32 | 🌐 Python | 📅 2024-08-20 - A visualization library for quick and easy generation of common plots in data analysis and machine learning.
 * [AutoViz](https://github.com/AutoViML/AutoViz) ⭐ 1,904 | 🐛 2 | 🌐 Python | 📅 2024-06-10 AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or JSON) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
-* [emcee](https://github.com/dfm/emcee) ⭐ 1,582 | 🐛 70 | 🌐 Python | 📅 2026-05-18 - The Python ensemble sampling toolkit for affine-invariant MCMC.
-* [PyCM](https://github.com/sepandhaghighi/pycm) ⭐ 1,501 | 🐛 12 | 🌐 Python | 📅 2026-05-15 - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
+* [emcee](https://github.com/dfm/emcee) ⭐ 1,583 | 🐛 70 | 🌐 Python | 📅 2026-05-18 - The Python ensemble sampling toolkit for affine-invariant MCMC.
+* [PyCM](https://github.com/sepandhaghighi/pycm) ⭐ 1,502 | 🐛 12 | 🌐 Python | 📅 2026-05-15 - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 * [d3py](https://github.com/mikedewar/d3py) ⭐ 1,416 | 🐛 48 | 🌐 Python | 📅 2020-12-28 - A plotting library for Python, based on [D3.js](https://d3js.org/).
 * [Open Mining](https://github.com/mining/mining) ⚠️ Archived - Business Intelligence (BI) in Python (Pandas web interface) **\[Deprecated]**
-* [Kartograph.py](https://github.com/kartograph/kartograph.py) ⭐ 998 | 🐛 62 | 🌐 Python | 📅 2020-12-30 - Rendering beautiful SVG maps in Python.
+* [Kartograph.py](https://github.com/kartograph/kartograph.py) ⭐ 998 | 🐛 63 | 🌐 Python | 📅 2020-12-30 - Rendering beautiful SVG maps in Python.
 * [Bowtie](https://github.com/jwkvam/bowtie) ⭐ 767 | 🐛 51 | 🌐 Python | 📅 2019-09-09 - A dashboard library for interactive visualizations using flask socketio and react.
 * [Dora](https://github.com/nathanepstein/dora) ⭐ 649 | 🐛 0 | 🌐 Python | 📅 2025-08-05 - Tools for exploratory data analysis in Python.
-* [DataComPy](https://github.com/capitalone/datacompy) ⭐ 643 | 🐛 8 | 🌐 Python | 📅 2026-05-11 - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+* [DataComPy](https://github.com/capitalone/datacompy) ⭐ 644 | 🐛 9 | 🌐 Python | 📅 2026-05-19 - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 * [SOMPY](https://github.com/sevamoo/SOMPY) ⭐ 552 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2023-04-07 - Self Organizing Map written in Python (Uses neural networks for data analysis).
 * [ggfortify](https://github.com/sinhrks/ggfortify) ⭐ 539 | 🐛 23 | 🌐 R | 📅 2025-10-19 - Unified interface to ggplot2 popular R packages.
 * [pastalog](https://github.com/rewonc/pastalog) ⭐ 421 | 🐛 11 | 🌐 JavaScript | 📅 2017-03-28 - Simple, realtime visualization of neural network training performance.
@@ -1515,22 +1515,22 @@ Further resources:
 
 #### Misc Scripts / iPython Notebooks / Codebases
 
-* [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,094 | 🐛 48 | 🌐 Python | 📅 2024-03-20 - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
-* [handsonml](https://github.com/ageron/handson-ml) ⭐ 25,616 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2026-03-19 - Fundamentals of machine learning in python.
-* [Pydata book](https://github.com/wesm/pydata-book) ⭐ 24,586 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2025-10-17 - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
-* [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) ⭐ 24,527 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2025-11-23 - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+* [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,095 | 🐛 48 | 🌐 Python | 📅 2024-03-20 - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
+* [handsonml](https://github.com/ageron/handson-ml) ⭐ 25,617 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2026-05-19 - Fundamentals of machine learning in python.
+* [Pydata book](https://github.com/wesm/pydata-book) ⭐ 24,587 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2025-10-17 - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+* [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) ⭐ 24,530 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2025-11-23 - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 * [A gallery of interesting IPython notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,314 | 🐛 49 | 🌐 Python | 📅 2026-04-21
 * [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) ⚠️ Archived - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
-* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python) ⭐ 8,096 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2024-03-14 - Notebooks and code for the book "Introduction to Machine Learning with Python"
+* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python) ⭐ 8,098 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2024-03-14 - Notebooks and code for the book "Introduction to Machine Learning with Python"
 * [pandas cookbook](https://github.com/jvns/pandas-cookbook) ⭐ 7,073 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2024-10-24 - Recipes for using Python's pandas library.
-* [numpic](https://github.com/numenta/nupic) ⭐ 6,353 | 🐛 465 | 🌐 Python | 📅 2024-12-03
+* [numpic](https://github.com/numenta/nupic) ⭐ 6,352 | 🐛 465 | 🌐 Python | 📅 2024-12-03
 * [pattern\_classification](https://github.com/rasbt/pattern_classification) ⭐ 4,207 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-26
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) ⭐ 3,789 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-03-05 - IPython notebooks from Data School's video tutorials on scikit-learn.
-* [Keras Tuner](https://github.com/keras-team/keras-tuner) ⭐ 2,924 | 🐛 240 | 🌐 Python | 📅 2025-12-01 - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
+* [Keras Tuner](https://github.com/keras-team/keras-tuner) ⭐ 2,923 | 🐛 240 | 🌐 Python | 📅 2025-12-01 - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
 * [Allen Downey’s Think Bayes Code](https://github.com/AllenDowney/ThinkBayes) ⭐ 1,695 | 🐛 12 | 🌐 TeX | 📅 2021-03-12 - Code repository for Think Bayes.
 * [hyperopt](https://github.com/hyperopt/hyperopt-sklearn) ⭐ 1,648 | 🐛 78 | 🌐 Python | 📅 2025-04-15
-* [TDB](https://github.com/ericjang/tdb) ⭐ 1,349 | 🐛 8 | 🌐 JavaScript | 📅 2017-01-27 - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
-* [Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) ⭐ 1,334 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-22 - Code for hyperparameter tuning/optimization of machine learning and deep learning algorithms.
+* [TDB](https://github.com/ericjang/tdb) ⭐ 1,350 | 🐛 8 | 🌐 JavaScript | 📅 2017-01-27 - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
+* [Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) ⭐ 1,333 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-22 - Code for hyperparameter tuning/optimization of machine learning and deep learning algorithms.
 * [Suiron](https://github.com/kendricktan/suiron/) ⭐ 709 | 🐛 3 | 🌐 Python | 📅 2016-10-08 - Machine Learning for RC Cars.
 * [ipython-notebooks](https://github.com/ogrisel/notebooks) ⭐ 575 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-05-04
 * [Allen Downey’s Think OS Code](https://github.com/AllenDowney/ThinkOS) ⭐ 569 | 🐛 7 | 🌐 TeX | 📅 2020-04-28 - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
@@ -1588,7 +1588,7 @@ Further resources:
 
 #### Spiking Neural Networks
 
-* [Tonic](https://github.com/neuromorphs/tonic) ⭐ 282 | 🐛 33 | 🌐 Python | 📅 2026-03-18 - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
+* [Tonic](https://github.com/neuromorphs/tonic) ⭐ 283 | 🐛 33 | 🌐 Python | 📅 2026-03-18 - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
 * [Sinabs](https://github.com/synsense/sinabs) ⭐ 115 | 🐛 27 | 🌐 Python | 📅 2026-02-05 - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
 * [Rockpool](https://github.com/synsense/rockpool) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2026-04-01 - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
 
@@ -1596,7 +1596,7 @@ Further resources:
 
 #### Python Survival Analysis
 
-* [lifelines](https://github.com/CamDavidsonPilon/lifelines) ⭐ 2,571 | 🐛 285 | 🌐 Python | 📅 2026-03-07 - lifelines is a complete survival analysis library, written in pure Python
+* [lifelines](https://github.com/CamDavidsonPilon/lifelines) ⭐ 2,573 | 🐛 285 | 🌐 Python | 📅 2026-03-07 - lifelines is a complete survival analysis library, written in pure Python
 * [Scikit-Survival](https://github.com/sebp/scikit-survival) ⭐ 1,297 | 🐛 29 | 🌐 Python | 📅 2026-04-07 - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
 
 <a name="python-federated-learning"></a>
@@ -1640,18 +1640,18 @@ Further resources:
 
 #### Reinforcement Learning
 
-* [RLlib](https://github.com/ray-project/ray) ⭐ 42,586 | 🐛 3,466 | 🌐 Python | 📅 2026-05-19 - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
-* [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) ⭐ 11,908 | 🐛 85 | 🌐 Python | 📅 2026-05-14 - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])(<https://github.com/openai/gym> ⚠️ Archived).
-* [DeepMind Lab](https://github.com/deepmind/lab) ⭐ 7,356 | 🐛 66 | 🌐 C | 📅 2023-01-04 - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
+* [RLlib](https://github.com/ray-project/ray) ⭐ 42,598 | 🐛 3,463 | 🌐 Python | 📅 2026-05-20 - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+* [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) ⭐ 11,913 | 🐛 87 | 🌐 Python | 📅 2026-05-14 - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])(<https://github.com/openai/gym> ⚠️ Archived).
+* [DeepMind Lab](https://github.com/deepmind/lab) ⭐ 7,355 | 🐛 66 | 🌐 C | 📅 2023-01-04 - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) ⚠️ Archived - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists.
 * [DI-engine](https://github.com/opendilab/DI-engine) ⭐ 3,617 | 🐛 26 | 🌐 Python | 📅 2025-12-07 - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 * [Retro](https://github.com/openai/retro) ⭐ 3,588 | 🐛 62 | 🌐 C | 📅 2024-02-22 - Retro Games in Gym
 * [Roboschool](https://github.com/openai/roboschool) ⚠️ Archived - Open-source software for robot simulation, integrated with OpenAI Gym.
 * [garage](https://github.com/rlworkgroup/garage) ⭐ 2,100 | 🐛 234 | 🌐 Python | 📅 2023-05-04 - A toolkit for reproducible reinforcement learning research
-* [ViZDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,021 | 🐛 29 | 🌐 C++ | 📅 2026-05-10 - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
-* [metaworld](https://github.com/rlworkgroup/metaworld) ⭐ 1,820 | 🐛 9 | 🌐 Python | 📅 2026-05-17 - An open source robotics benchmark for meta- and multi-task reinforcement learning
+* [ViZDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,022 | 🐛 29 | 🌐 C++ | 📅 2026-05-10 - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
+* [metaworld](https://github.com/rlworkgroup/metaworld) ⭐ 1,821 | 🐛 9 | 🌐 Python | 📅 2026-05-17 - An open source robotics benchmark for meta- and multi-task reinforcement learning
 * [SLM Lab](https://github.com/kengz/SLM-Lab) ⭐ 1,349 | 🐛 5 | 🌐 Python | 📅 2026-03-25 - Modular Deep Reinforcement Learning framework in PyTorch.
-* [Maze](https://github.com/enlite-ai/maze) ⭐ 290 | 🐛 2 | 🌐 Python | 📅 2026-04-02 - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+* [Maze](https://github.com/enlite-ai/maze) ⭐ 290 | 🐛 2 | 🌐 Python | 📅 2026-05-19 - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 * [Gym4ReaL](https://github.com/Daveonwave/gym4ReaL) ⭐ 48 | 🐛 1 | 🌐 Python | 📅 2025-07-03 - Gym4ReaL is a comprehensive suite of realistic environments designed to support the development and evaluation of RL algorithms that can operate in real-world scenarios. The suite includes a diverse set of tasks exposing RL algorithms to a variety of practical challenges.
 * [Coach](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
 * [acme](https://deepmind.com/research/publications/Acme) - An Open Source Distributed Framework for Reinforcement Learning that makes build and train your agents easily.
@@ -1661,7 +1661,7 @@ Further resources:
 
 #### Speech Recognition
 
-* [EspNet](https://github.com/espnet/espnet) ⭐ 9,841 | 🐛 62 | 🌐 Python | 📅 2026-05-18 - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
+* [EspNet](https://github.com/espnet/espnet) ⭐ 9,840 | 🐛 63 | 🌐 Python | 📅 2026-05-19 - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
 
 <a name="python-development tools"></a>
 
@@ -1690,7 +1690,7 @@ Further resources:
 
 * [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,212 | 🐛 6 | 🌐 Ruby | 📅 2024-12-26 - Curated list of ML related resources for Ruby.
 * [rumale](https://github.com/yoshoku/rumale) ⭐ 909 | 🐛 0 | 🌐 Ruby | 📅 2026-05-15 - Rumale is a machine learning library in Ruby
-* [CardMagic-Classifier](https://github.com/cardmagic/classifier) ⭐ 717 | 🐛 15 | 🌐 Ruby | 📅 2026-05-16 - A general classifier module to allow Bayesian and other types of classifications.
+* [CardMagic-Classifier](https://github.com/cardmagic/classifier) ⭐ 717 | 🐛 13 | 🌐 Ruby | 📅 2026-05-19 - A general classifier module to allow Bayesian and other types of classifications.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) ⭐ 279 | 🐛 2 | 🌐 C++ | 📅 2023-12-07 - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines.
 * [jRuby Mahout](https://github.com/vasinov/jruby_mahout) ⭐ 165 | 🐛 3 | 🌐 Ruby | 📅 2015-09-21 - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby. **\[Deprecated]**
 * [Scoruby](https://github.com/asafschers/scoruby) ⭐ 70 | 🐛 4 | 🌐 Ruby | 📅 2022-10-19 - Creates Random Forest classifiers from PMML files.
@@ -1726,12 +1726,12 @@ Further resources:
 
 #### General-Purpose Machine Learning
 
-* [candle](https://github.com/huggingface/candle) ⭐ 20,290 | 🐛 684 | 🌐 Rust | 📅 2026-05-18 - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
+* [candle](https://github.com/huggingface/candle) ⭐ 20,305 | 🐛 682 | 🌐 Rust | 📅 2026-05-18 - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 * [leaf](https://github.com/autumnai/leaf) ⭐ 5,543 | 🐛 33 | 🌐 Rust | 📅 2024-03-20 - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe. Available under the MIT license. [**\[Deprecated\]**](https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb#.s0a3uy4cc)
-* [linfa](https://github.com/rust-ml/linfa) ⭐ 4,652 | 🐛 69 | 🌐 Rust | 📅 2026-05-18 - a comprehensive toolkit to build Machine Learning applications with Rust
-* [linfa](https://github.com/rust-ml/linfa) ⭐ 4,652 | 🐛 69 | 🌐 Rust | 📅 2026-05-18 - `linfa` aims to provide a comprehensive toolkit to build Machine Learning applications with Rust
+* [linfa](https://github.com/rust-ml/linfa) ⭐ 4,653 | 🐛 69 | 🌐 Rust | 📅 2026-05-18 - a comprehensive toolkit to build Machine Learning applications with Rust
+* [linfa](https://github.com/rust-ml/linfa) ⭐ 4,653 | 🐛 69 | 🌐 Rust | 📅 2026-05-18 - `linfa` aims to provide a comprehensive toolkit to build Machine Learning applications with Rust
 * [rusty-machine](https://github.com/AtheMathmo/rusty-machine) ⚠️ Archived - a pure-rust machine learning library.
-* [smartcore](https://github.com/smartcorelib/smartcore) ⭐ 913 | 🐛 47 | 🌐 Rust | 📅 2026-04-15 - "The Most Advanced Machine Learning Library In Rust."
+* [smartcore](https://github.com/smartcorelib/smartcore) ⭐ 914 | 🐛 47 | 🌐 Rust | 📅 2026-04-15 - "The Most Advanced Machine Learning Library In Rust."
 * [rustlearn](https://github.com/maciejkula/rustlearn) ⭐ 642 | 🐛 13 | 🌐 Rust | 📅 2021-06-07 - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 * [delta](https://github.com/delta-rs/delta) ⭐ 414 | 🐛 8 | 🌐 Rust | 📅 2025-06-10 - An open source machine learning framework in Rust Δ
 * [RustNN](https://github.com/jackm321/RustNN) ⭐ 341 | 🐛 4 | 🌐 Rust | 📅 2017-12-21 - RustNN is a feedforward neural network library. **\[Deprecated]**
@@ -1740,14 +1740,14 @@ Further resources:
 
 #### Deep Learning
 
-* [burn](https://github.com/tracel-ai/burn) ⭐ 15,180 | 🐛 275 | 🌐 Rust | 📅 2026-05-15 - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
+* [burn](https://github.com/tracel-ai/burn) ⭐ 15,195 | 🐛 277 | 🌐 Rust | 📅 2026-05-19 - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
 * [tch-rs](https://github.com/LaurentMazare/tch-rs) ⭐ 5,390 | 🐛 235 | 🌐 Rust | 📅 2026-05-17 - Rust bindings for the C++ API of PyTorch
 * [dfdx](https://github.com/coreylowman/dfdx) ⭐ 1,904 | 🐛 90 | 🌐 Rust | 📅 2024-07-23 - Deep learning in Rust, with shape checked tensors and neural networks
 
 #### Natural Language Processing
 
-* [huggingface/tokenizers](https://github.com/huggingface/tokenizers) ⭐ 10,751 | 🐛 172 | 🌐 Rust | 📅 2026-05-14 - Fast State-of-the-Art Tokenizers optimized for Research and Production
-* [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ⭐ 5,060 | 🐛 38 | 🌐 Rust | 📅 2026-03-26 - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
+* [huggingface/tokenizers](https://github.com/huggingface/tokenizers) ⭐ 10,754 | 🐛 172 | 🌐 Rust | 📅 2026-05-14 - Fast State-of-the-Art Tokenizers optimized for Research and Production
+* [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ⭐ 5,151 | 🐛 38 | 🌐 Rust | 📅 2026-03-26 - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
 * [rust-bert](https://github.com/guillaume-be/rust-bert) ⭐ 3,061 | 🐛 75 | 🌐 Rust | 📅 2026-01-13 - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 
 <a name="r"></a>
@@ -1759,8 +1759,8 @@ Further resources:
 #### General-Purpose Machine Learning
 
 * [MXNet](https://github.com/apache/incubator-mxnet) ⚠️ Archived - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
-* [CatBoost](https://github.com/catboost/catboost) ⭐ 8,951 | 🐛 698 | 🌐 C++ | 📅 2026-05-19 - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
-* [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) ⭐ 3,739 | 🐛 36 | 🌐 R | 📅 2019-05-26
+* [CatBoost](https://github.com/catboost/catboost) ⭐ 8,952 | 🐛 699 | 🌐 C++ | 📅 2026-05-19 - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+* [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) ⭐ 3,740 | 🐛 36 | 🌐 R | 📅 2019-05-26
 * [XGBoost.R](https://github.com/tqchen/xgboost/tree/master/R-package) ⭐ 579 | 🐛 0 | 🌐 C++ | 📅 2018-07-04 - R binding for eXtreme Gradient Boosting (Tree) Library.
 * [TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) ⚠️ Archived - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) ⭐ 292 | 🐛 21 | 🌐 R | 📅 2025-12-15 - Multi-algorithm ensemble learning packages.
@@ -1901,7 +1901,7 @@ Further resources:
 
 #### Natural Language Processing
 
-* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) ⭐ 4,129 | 🐛 17 | 🌐 Scala | 📅 2026-05-18 - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
+* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) ⭐ 4,129 | 🐛 17 | 🌐 Scala | 📅 2026-05-19 - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
 * [Breeze](https://github.com/scalanlp/breeze) ⭐ 3,453 | 🐛 89 | 🌐 Scala | 📅 2025-10-04 - Breeze is a numerical processing library for Scala.
 * [FACTORIE](https://github.com/factorie/factorie) ⭐ 552 | 🐛 26 | 🌐 Scala | 📅 2017-12-19 - FACTORIE is a toolkit for deployable probabilistic modelling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
 * [Chalk](https://github.com/scalanlp/chalk) ⚠️ Archived - Chalk is a natural language processing library. **\[Deprecated]**
@@ -1928,21 +1928,21 @@ Further resources:
 
 #### General-Purpose Machine Learning
 
-* [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) ⭐ 5,229 | 🐛 394 | 🌐 Scala | 📅 2026-05-09 -> A distributed machine learning framework Apache Spark
-* [adam](https://github.com/bigdatagenomics/adam) ⭐ 1,049 | 🐛 43 | 🌐 Scala | 📅 2026-03-17 - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
+* [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) ⭐ 5,229 | 🐛 393 | 🌐 Scala | 📅 2026-05-20 -> A distributed machine learning framework Apache Spark
+* [adam](https://github.com/bigdatagenomics/adam) ⭐ 1,050 | 🐛 43 | 🌐 Scala | 📅 2026-03-17 - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
 * [H2O Sparkling Water](https://github.com/h2oai/sparkling-water) ⭐ 977 | 🐛 42 | 🌐 Scala | 📅 2025-11-05 - H2O and Spark interoperability.
 * [TensorFlow Scala](https://github.com/eaplatanios/tensorflow_scala) ⭐ 940 | 🐛 29 | 🌐 Scala | 📅 2022-06-22 - Strongly-typed Scala API for TensorFlow.
 * [BIDMach](https://github.com/BIDData/BIDMach) ⭐ 919 | 🐛 67 | 🌐 Scala | 📅 2022-10-04 - CPU and GPU-accelerated Machine Learning Library.
 * [Figaro](https://github.com/p2t2/figaro) ⭐ 757 | 🐛 122 | 🌐 HTML | 📅 2022-06-01 - a Scala library for constructing probabilistic models.
 * [brushfire](https://github.com/stripe/brushfire) ⚠️ Archived - Distributed decision tree ensemble learning in Scala.
 * [Conjecture](https://github.com/etsy/Conjecture) ⚠️ Archived - Scalable Machine Learning in Scalding.
-* [isolation-forest](https://github.com/linkedin/isolation-forest) ⭐ 256 | 🐛 1 | 🌐 Scala | 📅 2026-04-18 - A distributed Spark/Scala implementation of the isolation forest algorithm for unsupervised outlier detection, featuring support for scalable training and ONNX export for easy cross-platform inference.
+* [isolation-forest](https://github.com/linkedin/isolation-forest) ⭐ 257 | 🐛 1 | 🌐 Scala | 📅 2026-04-18 - A distributed Spark/Scala implementation of the isolation forest algorithm for unsupervised outlier detection, featuring support for scalable training and ONNX export for easy cross-platform inference.
 * [DynaML](https://github.com/transcendent-ai-labs/DynaML) ⭐ 202 | 🐛 25 | 🌐 Scala | 📅 2023-04-21 - Scala Library/REPL for Machine Learning Research.
 * [ONNX-Scala](https://github.com/EmergentOrder/onnx-scala) ⭐ 147 | 🐛 13 | 🌐 Scala | 📅 2026-02-17 - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
 * [doddle-model](https://github.com/picnicml/doddle-model) ⭐ 139 | 🐛 34 | 🌐 Scala | 📅 2024-08-13 - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 * [bioscala](https://github.com/bioscala/bioscala) ⭐ 115 | 🐛 4 | 🌐 Scala | 📅 2025-08-24 - Bioinformatics for the Scala programming language
 * [ganitha](https://github.com/tresata/ganitha) ⚠️ Archived - Scalding powered machine learning. **\[Deprecated]**
-* [Saul](https://github.com/CogComp/saul) ⭐ 64 | 🐛 121 | 🌐 Scala | 📅 2020-01-16 - Flexible Declarative Learning-Based Programming.
+* [Saul](https://github.com/CogComp/saul) ⭐ 65 | 🐛 121 | 🌐 Scala | 📅 2020-01-16 - Flexible Declarative Learning-Based Programming.
 * [SwiftLearner](https://github.com/valdanylchuk/swiftlearner/) ⭐ 40 | 🐛 1 | 🌐 Scala | 📅 2025-03-09 - Simply written algorithms to help study ML or write your own implementations.
 * [DeepLearning.scala](https://deeplearning.thoughtworks.school/) - Creating statically typed dynamic neural networks from object-oriented & functional programming constructs.
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/dev/libs/ml/index.html) - Distributed machine learning library in Flink.
@@ -1987,7 +1987,7 @@ Further resources:
 
 #### General-Purpose Machine Learning
 
-* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,535 | 🐛 32 | 📅 2026-02-08 - A list of all things related to TensorFlow.
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,538 | 🐛 32 | 📅 2026-02-08 - A list of all things related to TensorFlow.
 * [Awesome Keras](https://github.com/markusschanta/awesome-keras) ⭐ 33 | 🐛 0 | 📅 2022-10-25 - A curated list of awesome Keras projects, libraries and resources.
 * [Golden TensorFlow](https://golden.com/wiki/TensorFlow) - A page of content on TensorFlow, including academic papers and links to related topics.
 
@@ -2011,39 +2011,39 @@ Further resources:
 
 #### Misc
 
-* [milvus](https://milvus.io) – Milvus is [open source](https://github.com/milvus-io/milvus) ⭐ 44,348 | 🐛 882 | 🌐 Go | 📅 2026-05-19 vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
-* [Qdrant](https://qdrant.tech) – Qdrant is [open source](https://github.com/qdrant/qdrant) ⭐ 31,403 | 🐛 539 | 🌐 Rust | 📅 2026-05-19 vector similarity search engine with extended filtering support, written in Rust.
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 21,383 | 🐛 276 | 🌐 TypeScript | 📅 2026-05-19 - Open-source LLM evaluation and red teaming framework. Test prompts, models, agents, and RAG pipelines. Run adversarial attacks (jailbreaks, prompt injection) and integrate security testing into CI/CD.
-* [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source](https://github.com/semi-technologies/weaviate) ⭐ 16,214 | 🐛 608 | 🌐 Go | 📅 2026-05-19 vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
-* [DVC](https://github.com/iterative/dvc) ⭐ 15,611 | 🐛 176 | 🌐 Python | 📅 2026-05-18 - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
-* [txtai](https://github.com/neuml/txtai) ⭐ 12,592 | 🐛 8 | 🌐 Python | 📅 2026-05-12 - Build semantic search applications and workflows.
-* [Kedro](https://github.com/quantumblacklabs/kedro/) ⭐ 10,864 | 🐛 171 | 🌐 Python | 📅 2026-05-19 - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
-* [RunAnywhere](https://github.com/RunanywhereAI/runanywhere-sdks) ⭐ 10,343 | 🐛 40 | 🌐 C++ | 📅 2026-05-18 - Open-source SDK for running LLMs and multimodal models on-device across iOS, Android, and cross-platform apps.
-* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 7,830 | 🐛 77 | 🌐 Python | 📅 2026-05-19 - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, MCP integration, agentic workflows (route/parallel/loop/repeat), built-in memory, Python & JS SDKs.
-* [Infinity](https://github.com/infiniflow/infinity) ⭐ 4,518 | 🐛 59 | 🌐 C++ | 📅 2026-05-15 - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
+* [milvus](https://milvus.io) – Milvus is [open source](https://github.com/milvus-io/milvus) ⭐ 44,369 | 🐛 907 | 🌐 Go | 📅 2026-05-20 vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
+* [Qdrant](https://qdrant.tech) – Qdrant is [open source](https://github.com/qdrant/qdrant) ⭐ 31,431 | 🐛 538 | 🌐 Rust | 📅 2026-05-20 vector similarity search engine with extended filtering support, written in Rust.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 21,418 | 🐛 287 | 🌐 TypeScript | 📅 2026-05-20 - Open-source LLM evaluation and red teaming framework. Test prompts, models, agents, and RAG pipelines. Run adversarial attacks (jailbreaks, prompt injection) and integrate security testing into CI/CD.
+* [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source](https://github.com/semi-technologies/weaviate) ⭐ 16,217 | 🐛 602 | 🌐 Go | 📅 2026-05-20 vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
+* [DVC](https://github.com/iterative/dvc) ⭐ 15,616 | 🐛 176 | 🌐 Python | 📅 2026-05-18 - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+* [txtai](https://github.com/neuml/txtai) ⭐ 12,597 | 🐛 9 | 🌐 Python | 📅 2026-05-19 - Build semantic search applications and workflows.
+* [Kedro](https://github.com/quantumblacklabs/kedro/) ⭐ 10,865 | 🐛 164 | 🌐 Python | 📅 2026-05-19 - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
+* [RunAnywhere](https://github.com/RunanywhereAI/runanywhere-sdks) ⭐ 10,343 | 🐛 40 | 🌐 C++ | 📅 2026-05-20 - Open-source SDK for running LLMs and multimodal models on-device across iOS, Android, and cross-platform apps.
+* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 7,854 | 🐛 73 | 🌐 Python | 📅 2026-05-19 - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, MCP integration, agentic workflows (route/parallel/loop/repeat), built-in memory, Python & JS SDKs.
+* [Infinity](https://github.com/infiniflow/infinity) ⭐ 4,519 | 🐛 60 | 🌐 C++ | 📅 2026-05-15 - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 * [Sacred](https://github.com/IDSIA/sacred) ⭐ 4,363 | 🐛 107 | 🌐 Python | 📅 2025-10-22 - Python tool to help  you configure, organize, log and reproduce experiments. Like a notebook lab in the context of Chemistry/Biology. The community has built multiple add-ons leveraging the proposed standard.
-* [CML](https://github.com/iterative/cml) ⭐ 4,175 | 🐛 86 | 🌐 JavaScript | 📅 2025-06-02 - A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and graphs in pull/merge requests. Framework & language agnostic.
+* [CML](https://github.com/iterative/cml) ⭐ 4,176 | 🐛 86 | 🌐 JavaScript | 📅 2025-06-02 - A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and graphs in pull/merge requests. Framework & language agnostic.
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,540 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
-* More tools to improve the ML lifecycle: [Catalyst](https://github.com/catalyst-team/catalyst) ⭐ 3,378 | 🐛 4 | 🌐 Python | 📅 2025-06-27, [PachydermIO](https://www.pachyderm.io/). The following are GitHub-alike and targeting teams [Weights & Biases](https://www.wandb.com/), [Neptune.ai](https://neptune.ai/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/), [DAGsHub](https://DAGsHub.com/).
+* More tools to improve the ML lifecycle: [Catalyst](https://github.com/catalyst-team/catalyst) ⭐ 3,377 | 🐛 4 | 🌐 Python | 📅 2025-06-27, [PachydermIO](https://www.pachyderm.io/). The following are GitHub-alike and targeting teams [Weights & Biases](https://www.wandb.com/), [Neptune.ai](https://neptune.ai/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/), [DAGsHub](https://DAGsHub.com/).
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,981 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
 * [Deepnote](https://github.com/deepnote/deepnote) ⭐ 2,909 | 🐛 21 | 🌐 TypeScript | 📅 2026-05-17 - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
-* [Hamilton](https://github.com/dagworks-inc/hamilton) ⭐ 2,489 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2026-05-18 - a lightweight library to define data transformations as a directed-acyclic graph (DAG). It helps author reliable feature engineering and machine learning pipelines, and more.
+* [Hamilton](https://github.com/dagworks-inc/hamilton) ⭐ 2,489 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2026-05-20 - a lightweight library to define data transformations as a directed-acyclic graph (DAG). It helps author reliable feature engineering and machine learning pipelines, and more.
 * [VDP](https://github.com/instill-ai/vdp) ⭐ 2,310 | 🐛 40 | 🌐 Python | 📅 2026-05-13 - open source visual data ETL to streamline the end-to-end visual data processing pipeline: extract unstructured visual data from pre-built data sources, transform it into analysable structured insights by Vision AI models imported from various ML platforms, and load the insights into warehouses or applications.
-* [Agentfield](https://github.com/Agent-Field/agentfield) ⭐ 1,896 | 🐛 74 | 🌐 Go | 📅 2026-05-13 - Open source Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.
-* [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 969 | 🐛 14 | 🌐 Python | 📅 2025-11-27 -  Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
+* [Agentfield](https://github.com/Agent-Field/agentfield) ⭐ 1,915 | 🐛 77 | 🌐 Go | 📅 2026-05-20 - Open source Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.
+* [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 970 | 🐛 14 | 🌐 Python | 📅 2025-11-27 -  Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius/) ⚠️ Archived - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 * [MLEM](https://github.com/iterative/mlem) ⚠️ Archived - Version and deploy your ML models following GitOps principles
 * [Aqueduct](https://github.com/aqueducthq/aqueduct) ⭐ 519 | 🐛 11 | 🌐 Go | 📅 2023-06-07 - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
-* [Localforge](https://localforge.dev/) – Is an [open source](https://github.com/rockbite/localforge) ⭐ 375 | 🐛 13 | 🌐 JavaScript | 📅 2025-05-18 on-prem AI coding autonomous assistant that lives inside your repo, edits and tests files at SSD speed. Think Claude Code but with UI. plug in any LLM (OpenAI, Gemini, Ollama, etc.) and let it work for you.
+* [Localforge](https://localforge.dev/) – Is an [open source](https://github.com/rockbite/localforge) ⭐ 376 | 🐛 13 | 🌐 JavaScript | 📅 2025-05-18 on-prem AI coding autonomous assistant that lives inside your repo, edits and tests files at SSD speed. Think Claude Code but with UI. plug in any LLM (OpenAI, Gemini, Ollama, etc.) and let it work for you.
 * [DVClive](https://github.com/iterative/dvclive) ⭐ 190 | 🐛 33 | 🌐 Python | 📅 2026-05-18 - Python library for experiment metrics logging into simply formatted local files.
-* [Agentic Signal](https://github.com/code-forge-temple/agentic-signal) ⭐ 153 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-29 - Visual AI agent workflow automation platform with local LLM integration. Build intelligent workflows using drag-and-drop, no cloud required.
+* [Agentic Signal](https://github.com/code-forge-temple/agentic-signal) ⭐ 154 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-29 - Visual AI agent workflow automation platform with local LLM integration. Build intelligent workflows using drag-and-drop, no cloud required.
 * [Ambrosia](https://github.com/reactorsh/ambrosia) ⭐ 113 | 🐛 0 | 🌐 Go | 📅 2023-05-30 - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
 * [DockerDL](https://github.com/matifali/dockerdl) ⭐ 85 | 🐛 0 | 🌐 Dockerfile | 📅 2026-03-09 - Ready to use deeplearning docker images.
 * [Local LLM NPC](https://github.com/code-forge-temple/local-llm-npc) ⭐ 47 | 🐛 0 | 🌐 C# | 📅 2026-02-26 - Godot 4.x asset that enables NPCs to interact with players using local LLMs for structured, offline-first learning conversations in games.
-* [ClawMoat](https://github.com/darfaz/clawmoat) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-18 - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse. Zero deps, MIT licensed.
+* [ClawMoat](https://github.com/darfaz/clawmoat) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-19 - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse. Zero deps, MIT licensed.
 * [Notebooks](https://github.com/rlan/notebooks) ⭐ 34 | 🐛 2 | 🌐 Dockerfile | 📅 2025-11-17 - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 * [HyperAgency](https://github.com/vuics/h9y) ⭐ 34 | 🐛 0 | 🌐 Shell | 📅 2026-03-04 - agentic AI operating system (h9y.ai) that replaces brittle/fragmented automations with long-lived, self-improving systems. Open-source, self-hosted/cloud, visual workflow, omni-channel, decentralized, extensible.
-* [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) ⭐ 32 | 🐛 7 | 🌐 Python | 📅 2026-05-18 - A curated collection of battle-tested tools, frameworks, and best practices for building, scaling, and monitoring production-grade Retrieval-Augmented Generation (RAG) systems. Covers frameworks, vector databases, retrieval & reranking, evaluation, observability, deployment, and security.
+* [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) ⭐ 33 | 🐛 8 | 🌐 Python | 📅 2026-05-18 - A curated collection of battle-tested tools, frameworks, and best practices for building, scaling, and monitoring production-grade Retrieval-Augmented Generation (RAG) systems. Covers frameworks, vector databases, retrieval & reranking, evaluation, observability, deployment, and security.
 * [ScribePal](https://github.com/code-forge-temple/scribe-pal) ⭐ 21 | 🐛 10 | 🌐 TypeScript | 📅 2026-04-06 - Chrome extension that uses local LLMs to assist with writing and drafting responses based on the context of your open tabs.
 * [Awesome Hugging Face Models](https://github.com/JehoshuaM/awesome-huggingface-models) ⭐ 10 | 🐛 0 | 📅 2026-03-06 - Curated list of top Hugging Face models for NLP, vision, and audio tasks with demos and benchmarks.
 * [Bread Dataset Viewer](https://github.com/Bread-Technologies/mle_vscode_extension) ⭐ 5 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-05 - A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
@@ -2086,5 +2086,5 @@ Further resources:
 
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 298,426 | 🐛 16 | 🌐 Python | 📅 2026-05-19
+* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 298,606 | 🐛 17 | 🌐 Python | 📅 2026-05-19
 * References for Go were mostly cut-and-pasted from [gopherdata](https://github.com/gopherdata/resources/tree/master/tooling) ⭐ 886 | 🐛 8 | 📅 2023-09-06
